@@ -1,0 +1,96 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
+basics:
+  name: "Frank Helm"
+  label: "Information Security Officer"
+  picture: "/assets/img/logo-256.png"
+  email: "resume@FrankHelm.com"
+  # phone: ""
+  website: "https://FrankHelm.com/"
+  summary: >
+    Frank is from Camp Hill, Pennsylvania. 
+    He has earned a Bachelor of Science degree from Harrisburg University of Science and Technology, and is presently certified via ISC² CCSP, and ISACA CISA. 
+    Frank has worked in security and technology GRC since 2015, across both the first and second lines of defense. He is well versed in risk and exception management, M&A activities, threat modeling, security governance, and communicating security risks and concepts to business partners. 
+    
+  location:
+    address: ""
+    postalCode: ""
+    city: "Chicago"
+    countryCode: "US"
+    region: "Illinois"
+  profiles:
+    - network: "Twitter"
+      username: "BeerMetalPC"
+      url: "https://twitter.com/BeerMetalPC"
+    - network: "LinkedIn"
+      username: "Frank Helm"
+      url: "https://www.linkedin.com/in/frankhelm/"
+work:
+  - company: "BMO Financial Group"
+    position: "Business Information Security Officer"
+    website: "https://bmo.com/"
+    startDate: "2021-11-01"
+    endDate: ""
+    summary: >
+      BISO supporting BMO's Technology & Operations department.  
+    highlights:
+      - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
+      - "Successfully won Techcrunch Disrupt"
+      - "Optimized an algorithm that holds the current world record for Weisman Scores"
+volunteer:
+  - organization: "CoderDojo"
+    position: "Teacher"
+    website: "https://coderdojo.com/"
+    startDate: "2012-01-01"
+    endDate: "2013-01-01"
+    summary: "Global movement of free coding clubs for young people."
+    highlights:
+      - "Awarded 'Teacher of the Month'"
+education:
+  - institution: "Harrisburg University of Science and Technology"
+    area: "Computer Science"
+    studyType: "Bachelor"
+    startDate: "2013-01-01"
+    endDate: "2015-04-15"
+    gpa: "3.6"
+    courses:
+      # - "DB1101 - Basic SQL"
+      # - "CS2011 - Java Introduction"
+awards:
+  - title: "Digital Compression Pioneer Award"
+    date: "2014-11-01"
+    awarder: "Techcrunch"
+    summary: "There is no spoon."
+publications:
+  - name: "Video compression for 3d media"
+    publisher: "Hooli"
+    releaseDate: "2014-10-01"
+    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
+    summary: "Innovative middle-out compression algorithm that changes the way we store data."
+skills:
+  - name: "Web Development"
+    level: "Master"
+    keywords:
+      - "HTML"
+      - "CSS"
+      - "Javascript"
+  - name: "Compression"
+    level: "Master"
+    keywords:
+      - "Mpeg"
+      - "MP4"
+      - "GIF"
+languages:
+  - language: "English"
+    fluency: "Native speaker"
+interests:
+  - name: "Wildlife"
+    keywords:
+      - "Ferrets"
+      - "Unicorns"
+references:
+  - name: "Erlich Bachman"
+    reference: >
+      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
+      Company proved that he will be a valuable addition to any company.
