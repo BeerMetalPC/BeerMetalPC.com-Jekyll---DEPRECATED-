@@ -74,9 +74,13 @@ Going into this project I knew that I would handle images to either extreme depe
 
 I took this project as a bonus opportunity to sit down and get truly familiar with [Github](https://github.com/). I completed some much overdue learning lab courses and capped it off with their [Github Pages](https://lab.github.com/githubtraining/github-pages) course which includes a tutorial on Jekyll. Although I'm hosting this site via Netlify, I'm still using Github to provide version control and CI. [Github Desktop](https://desktop.github.com/) made committing the entire project to a private repo easy, plus enforces version control locally so that my tinkering self doesn't hose the entire project. 
 
+#### GoatCounter
+
+GoatCounter is a free for personal use analytics solution, easily implemented by just dropping a script tag in the_includes/my-head.html file, and privacy friendly to boot. Users can block GoatCounter by just adding gc.zgo.at to their firewall or adblocker blocklist. I get some basic site analytics, and head off a raft of privacy policy headaches. 
+
 #### Netlify 
 
-[Netlify](https://www.netlify.com/) provides the hosting and SSL, and integrates with Github so I can publish the site from a private repo. Also provides analytics.
+[Netlify](https://www.netlify.com/) provides the hosting and SSL, and integrates with Github so I can publish the site from a private repo. 
 
 #### Google Domains
 
