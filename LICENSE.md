@@ -8,6 +8,12 @@ sitemap: false
 * this list will be replaced by the toc
 {:toc .large-only}
 
+All blog posts, projects, and content within *.BeerMetalPC.com is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You may share and adapt my content, but please give me appropriate credit and indicate if changes have been made from the original. Copy or derivative work based upon my content does not imply my endorsement. 
+
+Credit to Lazy Ren for [customizations of the Hydejack theme](https://lazyren.github.io/devlog/how-i-customized-hydejack-theme.html), including integration of the Applause button and the Tags page. 
+
+Hydejack requires placing [GPLv3](https://hydejack.com/CHANGELOG/#license-change) in the repository; it is copied in full below accordingly. See also Hydejack's [notice.](/NOTICE)
+
 ## GNU GENERAL PUBLIC LICENSE
 {:.no_toc}
 
