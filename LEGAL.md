@@ -24,7 +24,7 @@ This website does rely on and make use of other services which ***may*** collect
 
 ## First Party
 
-A Cookies Notice is presented to the user of this website upon their first visit. However, this is a precautionary measure, no cookies are collected, used, or stored by this site or its operator. 
+No cookies are collected, used, or stored by this site or its operator. 
 
 Google Fonts are not used on this site. 
 
