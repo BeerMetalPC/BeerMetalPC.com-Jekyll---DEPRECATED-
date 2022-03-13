@@ -4,7 +4,7 @@ title: BeerMetalPC.com
 tags: [project, jekyll]
 caption: Detailing my first foray into static sites, and the underlying services utilized.
 description: >
-  An high level explainer as to what services I was using before this site, why I built this one, and the design decisions made in the process.  
+  A high level explainer as to what services I was using before this site, why I built this one, and the design decisions made in the process.  
 date: 11 Mar 2022
 image: 
   path: /assets/img/projects/BeerMetalPC.com.png
