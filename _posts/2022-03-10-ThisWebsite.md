@@ -61,11 +61,22 @@ I've done all of the first time setup and content creation locally, with Github 
 
 I did learn the hard way that Jekyll can be ***very*** tempermental about spacing and alignment in the underlying Markdown files. Be deliberate. Work from templates.
 
+Google Fonts is disabled in _config.yml because I don't want to attest to explain anything in the Privacy Policy than I have to. If it causes privacy wailing and gnashing of teeth, and isn't serving a specific desired feature or function, bin it. 
+
+Hydejack, or perhaps Jekyll itself does have some frustrating quirks with how categories and tags are handled. Yes you can do some more granular sorting by categorizing posts and then sorting the tags, but at least for the time being this feels unnecessary for the small amount of content I have / will have. I'm proceeding with pretending that post categories feature does not exist. Similarly, Hydejack's projects feature has felt like just a blog post minus a few features, e.g. projects with tags don't display in a the tag page/collection. Again, using only tags has largely solved this problem, just make a tag for projects.
+
+##### Lazy Ren's Modifications
+
+Another Hydejack user, Lazy Ren, made a blog post on [how they modified the Hydejack theme](https://lazyren.github.io/devlog/how-i-customized-hydejack-theme.html)  that links through to how to guides. Specifically, I made use of the [Applause button](https://lazyren.github.io/devlog/add-applause-button-for-jekyll-post), and the [Tags List page](https://lazyren.github.io/devlog/creating-tag-list-page). 
+
+Applause worked out of the box, but because of my decision to only use tags, I had to remove every reference to categories and cut out the second nested loop in /_layouts/tags.html to get the featured_tags to display on the page semi-correctly. Not a problem, but if you know what you're doing you can make it prettier than the hatchet job I've done. 
+
+Also: Ren's description of `type` might seems a big confusing. Go to /_featured_tags/ or /_featured_categories/ , in your tag/category .md files you need to add the text `type: tag` or `type:category` in order for the tag list page to be able to see and list those items.
+
 #### Images
 
 Going into this project I knew that I would handle images to either extreme depending on selected Jekyll theme. As Hydejack does an excellent job of presenting images, I had to do a little extra legwork in cropping, scaling, and optimizing images and assets. 
 
-- I'm comfortable working in [GIMP](https://www.gimp.org/) so that's where I did most of my own image editing. 
 - [ImageCompressor.com / Optimizilla](https://imagecompressor.com/) has been my go to image compression and optimization service. 
 - [Unsplash](https://unsplash.com/) for when I just need a free, good looking placeholder or banner. 
 
@@ -76,12 +87,17 @@ I took this project as a bonus opportunity to sit down and get truly familiar wi
 
 #### GoatCounter
 
-GoatCounter is a free for personal use analytics solution, easily implemented by just dropping a script tag in the_includes/my-head.html file, and privacy friendly to boot. Users can block GoatCounter by just adding gc.zgo.at to their firewall or adblocker blocklist. I get some basic site analytics, and head off a raft of privacy policy headaches. 
+[GoatCounter](https://www.goatcounter.com/) is a free for personal use analytics solution, easily implemented by just dropping a script tag in the_includes/my-head.html file, and it's privacy friendly to boot. Users can block GoatCounter by just adding gc.zgo.at to their firewall or adblocker blocklist. I get some basic site analytics, and head off a raft of privacy policy headaches. 
 
 #### Netlify 
 
-[Netlify](https://www.netlify.com/) provides the hosting and SSL, and integrates with Github so I can publish the site from a private repo. 
+[Netlify](https://www.netlify.com/) provides the hosting and SSL, and integrates with Github so I can publish the site from a private repo. Don't know what else to say here than OAuth with Github, and go through selecting a repo and first time setup, it's really simple and straightforward. (Free tier is 100GB / mo in traffic, so we'll see how that holds up over time) 
 
-#### Google Domains
+Also, build command was `bundle exec jekyll build`, so don't panic if the default `jekyll build` isn't working. 
 
-I use Google Domains as the registrar and DNS, but do so largely out of convenience. Use whatever you like. With everything stood up in Github and Netlify it was just a matter of providing Netlify the domain, and changing the Google Domains DNS records according to Netlify's instructions. 
+#### DNS
+
+I use Google Domains as the registrar and DNS, but do so largely out of convenience. Use whatever you like. With everything stood up in Github and Netlify it was just a matter of delegating Netlify the domain, changing the DNS CNAME and NS records in Google domains, and waiting for everything to populate. Netlify even automates the LetsEncrypt certificate generation. 
+
+Admittedly the Google Domains interface does not make it obvious how to change NS records. You have to navigate to yourdomain --> DNS --> and then along the top ribbon of the DNS page select "Custom Names Servers." It is a part of the loaded view/page, not part of the bordering interface or blue text menus, if that makes sense. 
+
