@@ -57,19 +57,19 @@ I've done all of the first time setup and content creation locally, with Github 
 
 #### Hydejack
 
-[Hydejack](https://hydejack.com/) [Pro](https://qwtel.gumroad.com/l/nuOluY/qr0tw8m) stuck out a gorgeous Jekyll theme with very good documentation, plus all the features I would need. Admittedly I could easily have gotten by on a free license, but I was jumping in with both feet and wanted to tinker with everything under the hood. Being able to start from Hydejack's prebuilt starter kit was an immense benefit. 
+[Hydejack](https://hydejack.com/) [Pro](https://qwtel.gumroad.com/l/nuOluY/qr0tw8m) stuck out as a gorgeous Jekyll theme with very good documentation, plus all the features I would need. Admittedly I could easily have gotten by on a free license, but I was jumping in with both feet and wanted to tinker with everything under the hood. Being able to start from Hydejack's prebuilt starter kit was an immense benefit. 
 
-I did learn the hard way that Jekyll can be ***very*** tempermental about spacing and alignment in the underlying Markdown files. Be deliberate. Work from templates.
+Hydejack, or perhaps Jekyll itself does have some frustrating quirks with how categories and tags are handled. Yes you can do some more granular sorting by categorizing posts and then sorting the tags, but at least for the time being this feels unnecessary for the small amount of content I have / will have. I'm proceeding with pretending that post categories feature does not exist. Similarly, Hydejack's projects feature has felt like just a blog post minus a few features, e.g. projects with tags don't display in a the tag page/collection. Again, using only tags has largely solved this problem, just make a tag for projects.
 
 Google Fonts is disabled in _config.yml because I don't want to attest to explain anything in the Privacy Policy than I have to. If it causes privacy wailing and gnashing of teeth, and isn't serving a specific desired feature or function, bin it. 
 
-Hydejack, or perhaps Jekyll itself does have some frustrating quirks with how categories and tags are handled. Yes you can do some more granular sorting by categorizing posts and then sorting the tags, but at least for the time being this feels unnecessary for the small amount of content I have / will have. I'm proceeding with pretending that post categories feature does not exist. Similarly, Hydejack's projects feature has felt like just a blog post minus a few features, e.g. projects with tags don't display in a the tag page/collection. Again, using only tags has largely solved this problem, just make a tag for projects.
+I did learn the hard way that Jekyll can be ***very*** tempermental about spacing and alignment in the underlying Markdown files. Be deliberate. Work from templates.
 
 ##### Lazy Ren's Modifications
 
 Another Hydejack user, Lazy Ren, made a blog post on [how they modified the Hydejack theme](https://lazyren.github.io/devlog/how-i-customized-hydejack-theme.html)  that links through to how to guides. Specifically, I made use of the [Applause button](https://lazyren.github.io/devlog/add-applause-button-for-jekyll-post), and the [Tags List page](https://lazyren.github.io/devlog/creating-tag-list-page). 
 
-Applause worked out of the box, but because of my decision to only use tags, I had to remove every reference to categories and cut out the second nested loop in /_layouts/tags.html to get the featured_tags to display on the page semi-correctly. Not a problem, but if you know what you're doing you can make it prettier than the hatchet job I've done. 
+Applause worked out of the box and I would highly recommend it for other Hydejack users. But for the latter, because of my decision to only use tags, I had to remove every reference to categories and cut out the second nested loop in /_layouts/tags.html to get the featured_tags to display on the page semi-correctly. Not a huge problem, just another source of some trial and error; if you know what you're doing you can make the tags list prettier than the hatchet job I've done. 
 
 Also: Ren's description of `type` might seems a big confusing. Go to /_featured_tags/ or /_featured_categories/ , in your tag/category .md files you need to add the text `type: tag` or `type:category` in order for the tag list page to be able to see and list those items.
 
