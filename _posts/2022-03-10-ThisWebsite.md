@@ -31,7 +31,7 @@ The habits formed by being raised in an inherently-frugal Pennsylvania Dutch fam
 
 ### What's with the name? 
 
-I have another unique handle I've used for online gaming purposes for years, but as I've started doing more public and professional interaction it became clear I needed another that was separate or at least at arms length from games. BeerMetalPC was half-asleep showerthought: you've heard of a bare metal computer. What about beer metal? 🍺🤘💻. 
+I have another unique handle I've used for online gaming purposes for years, but as I've started doing more public and professional interaction it became clear I needed another that was separate or at least at arms length from games. BeerMetalPC came about as a half-asleep showerthought: you've heard of a bare metal computer. What about beer metal? 🍺🤘💻. 
 
 I've aligned most of my social media to this monicker, and had the BeerMetalPC.com pointed at other services. It's now associated to this site, and I've also pointed [FrankHelm.com](https://FrankHelm.com) here as a permanent redirect for the sake of consistency. 
 
