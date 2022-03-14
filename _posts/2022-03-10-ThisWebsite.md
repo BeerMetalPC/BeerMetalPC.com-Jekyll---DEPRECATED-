@@ -87,7 +87,7 @@ I took this project as a bonus opportunity to sit down and get truly familiar wi
 
 #### GoatCounter
 
-[GoatCounter](https://www.goatcounter.com/) is a free for personal use analytics solution, easily implemented by just dropping a script tag in the_includes/my-head.html file, and it's privacy friendly to boot. Users can block GoatCounter by just adding gc.zgo.at to their firewall or adblocker blocklist. I get some basic site analytics, and head off a raft of privacy policy headaches. 
+[GoatCounter](https://www.goatcounter.com/) is a free for personal use analytics solution, easily implemented by just dropping a script tag in the /_includes/my-head.html file, and it's privacy friendly to boot. Users can block GoatCounter by just adding gc.zgo.at to their firewall or adblocker blocklist. I get some basic site analytics, and head off a raft of privacy policy headaches. 
 
 #### Netlify 
 
