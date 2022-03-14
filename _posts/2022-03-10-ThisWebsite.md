@@ -97,7 +97,7 @@ Also, build command was `bundle exec jekyll build`, so don't panic if the defaul
 
 #### DNS
 
-I use Google Domains as the registrar and DNS, but do so largely out of convenience. Use whatever you like. With everything stood up in Github and Netlify it was just a matter of delegating Netlify the domain, changing the DNS CNAME and NS records in Google domains, and waiting for everything to populate. Netlify even automates the LetsEncrypt certificate generation. 
+I use Google Domains as the registrar and DNS, but do so largely out of convenience. Use whatever you like. With everything stood up in Github and Netlify it was just a matter of delegating Netlify the domain, changing the DNS CNAME and NS records in Google domains, and waiting for the records to propogate. Netlify even automates the LetsEncrypt certificate generation. 
 
 Admittedly the Google Domains interface does not make it obvious how to change NS records. You have to navigate to yourdomain --> DNS --> and then along the top ribbon of the DNS page select "Custom Names Servers." It is a part of the loaded view/page, not part of the bordering interface or blue text menus, if that makes sense. 
 
