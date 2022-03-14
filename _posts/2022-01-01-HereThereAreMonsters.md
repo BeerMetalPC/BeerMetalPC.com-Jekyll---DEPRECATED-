@@ -23,17 +23,17 @@ Here There Are Monsters is the first potential conference talk I've worked on. F
 
 Unfortunately, I have not yet had occaison to give this talk in any formal or public setting. Given the rarity of talks and material covering Security in M&A, sitting on this material waiting to win the CFP lottery feels irresponsible. I am making [my slides](https://docs.google.com/presentation/d/132drqKpdemCM_JDGJ0vDR754jOur5LBp/edit?usp=sharing&ouid=107853607351998871922&rtpof=true&sd=true) available for the sake of open knowledge sharing, and I've coverted the bulk of this talk into text, below. I started in this role knowing nothing about the M&A process in general, let alone how security fit into it, and I want the next bright eyed analyst that falls over backwards into this type of role to have a better footing to start from than I had. 
 
-## Resources
+### Resources
 - [My slides](https://docs.google.com/presentation/d/132drqKpdemCM_JDGJ0vDR754jOur5LBp/edit?usp=sharing&ouid=107853607351998871922&rtpof=true&sd=true) contain the vast majority of my content in the presentation notes, and you can get most of my lessons learned by reading through the deck in that manner.
 
-## Credit
+### Credit
 - Jim N, for embracing chaos and being the best mentor in this role / work I could have ever found. 
 - [SlidesCarnival](https://www.slidescarnival.com/moth-free-presentation-template/12025) for the colorful monsters slides template. 
 
-# Security Delivery in M&A Projects 
+## Security Delivery in M&A Projects 
 **Note**: the text version below hits the high notes, I've left jokes and anecdotes out of this version for the sake of being concise and readable, or at least approaching those things. Besides, I need to hold the jokes back so they'll feel new if I ever get to speak at a con. 🙃
 
-## Disclaimers
+### Disclaimers
 - Any/all content in this talk does not represent any thoughts/opinions of my employer, nor is it a blueprint of any of their internal processes. 
 - I am not a lawyer - this talk is not legal, financial, regulatory, or relationship advice. 
 - I am not a thought leader or authority figure, I am not dictating how things must be done. I'm just someone who found themselves working in what seems to be an uncommon niche of securty, and am here to share that experience and lessons learned. 
