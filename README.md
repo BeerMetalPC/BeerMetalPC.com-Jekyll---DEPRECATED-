@@ -1,14 +1,14 @@
 # README
 
 ## Modifications
-- Added Lazy Ren's applause button
+- Added Lazy Ren's applause button.
 - Added Lazy Ren's tags page. Modified /_layouts/tags.html to not include categories. 
-	- Note: in order for featured tags to be displayed, 
-- 
+	- Note: Ren’s description of type might seems a big confusing. Go to /_featured_tags/ or /_featured_categories/ , in your tag/category .md files you need to add the text `type: tag` or `type: category` in order for the tag list page to be able to see and list those items.
+- Google Fonts is disabled in _config.yml because I don’t want to have to attest or explain anything more in the Privacy Policy than I must.
 
 ## Conventions
 
-- We do not use the Projects feature of Hydejack. Pretend it doesn't exist. Use blog posts instead. 
+- We do not use the Projects feature of Hydejack. Pretend it doesn't exist. Use blog posts instead with the frontmatter `tag: project`
 - We do not use the categories feature. /_featured_categories/ has been deleted. Tags are easier for the end user, categories are unnecessary here. 
 - In order for featured tags to be displayed by BeerMetalPC.com/tags/ , there must be:
 	- a: a $tagname.md file in /_featured_tags/
