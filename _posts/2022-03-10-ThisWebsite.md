@@ -27,7 +27,7 @@ sitemap: false
 
 My need for a personal site arose out of frustration with commercial off the shelf offerings in 2022 and a desire for a personal project to obtain more happy brain chemicals. I've wanted a (semi-)professional looking site that could be associated with my public facing social media, directly host my own content without added crap to maintain like comments (ffs just [@ me on Twitter](https://twitter.com/BeerMetalPC)), and link through to my other public facing accounts. 
 
-The habits formed by being raised in an inherently-frugal Pennsylvania Dutch family demanded something I could host for cheap, preferably free, and that I could spend near-zero time maintaining. Static sites came to mind by looking at the personal websites of several persons in infosec Twitter. ([@varcharr](https://twitter.com/varcharr)'s [How I Made my Website](https://casey.is/blogging/making-this-website/) was an immense help here) So far Jekyll seems to tick all the boxes. Cheap. Relatively easy to build and maintain. And still looks high quality. Did I mention cheap? 
+The habits formed by being raised in an inherently-frugal Pennsylvania Dutch family demanded something I could host for cheap, preferably free, and that I could spend near-zero time maintaining. Static sites came to mind by looking at the personal websites of several persons in infosec Twitter. ([@varcharr](https://twitter.com/varcharr)'s [How I Made my Website](https://casey.is/blogging/making-this-website/) was an immense help here) So far Jekyll seems to tick all the boxes. ✅ Free. ✅ Relatively easy to build and maintain. ✅ Ample support, documentation, and how-tos. ✅ Did I mention it was free. That's really nice. 
 
 ### What's with the name? 
 
@@ -57,11 +57,11 @@ I've done all of the first time setup and content creation locally, with Github 
 
 #### Hydejack
 
-[Hydejack](https://hydejack.com/) [Pro](https://qwtel.gumroad.com/l/nuOluY/qr0tw8m) stuck out as a gorgeous Jekyll theme with very good documentation, plus all the features I would need. Admittedly I could easily have gotten by on a free license, but I was jumping in with both feet and wanted to tinker with everything under the hood. Being able to start from Hydejack's prebuilt starter kit was an immense benefit. 
+[Hydejack](https://hydejack.com/) [Pro](https://qwtel.gumroad.com/l/nuOluY/qr0tw8m) stuck out as a gorgeous Jekyll theme with very good documentation, plus all the features I would need. Admittedly I could easily have gotten by on a free license, but I was jumping in with both feet and wanted to tinker with everything under the hood, and felt that given the means it was only right to duly compensate the theme creator for their time and effort. Being able to start from Hydejack's prebuilt starter kit was an immense benefit. 
 
 Hydejack, or perhaps Jekyll itself does have some frustrating quirks with how categories and tags are handled. Yes you can do some more granular sorting by categorizing posts and then sorting the tags, but at least for the time being this feels unnecessary for the small amount of content I have / will have. I'm proceeding with pretending that the post categories feature does not exist. Similarly, Hydejack's projects feature has felt like a blog post missing some bits, e.g. projects with tags don't display in a the tag page/collection. Again, using only tags has largely solved this problem, I just make a distinct tag for projects instead.
 
-Google Fonts is disabled in _config.yml because I don't want to have to attest or explain anything more in the Privacy Policy than I must. If it causes privacy wailing and gnashing of teeth, and isn't serving a specific desired feature or function, bin it. 
+Google Fonts is disabled in _config.yml because I don't want to have to attest or explain anything more in the Privacy Policy than I must. If it causes privacy wailing and gnashing of teeth, and isn't serving a specific desired feature or function, I threw it in the bin. 
 
 I did learn the hard way that Jekyll can be ***very*** tempermental about spacing and alignment in the underlying Markdown files. Be deliberate. Work from templates.
 
