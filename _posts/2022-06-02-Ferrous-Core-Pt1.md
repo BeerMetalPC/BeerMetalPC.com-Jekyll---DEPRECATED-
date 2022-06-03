@@ -1,7 +1,7 @@
 ---
 layout: post
-title: I Built a Community - Ferrous Core Pt.1: Opportunity
-tags: [Gaming, Ferrous Core]
+title: I Built a Community | Ferrous Core Pt.1 
+tags: [Gaming, FerrousCore]
 caption: In 2017 I started a gaming community for Destiny 2. It was a learning experience, this is the context in which it came to be. 
 description: >
   A restrospective, lessons learned series about the gaming community I started and ran for four years. This part focuses on the context, the opportunities I saw, and how CORE came to be. 
