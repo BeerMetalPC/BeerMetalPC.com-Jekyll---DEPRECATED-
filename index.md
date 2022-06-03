@@ -1,5 +1,5 @@
 ---
-layout: welcome
+layout: grid
 title: '@BeerMetalPC'
 cover: true
 featured: false
