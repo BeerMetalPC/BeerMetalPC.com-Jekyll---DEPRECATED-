@@ -7,7 +7,7 @@ description: >
   A restrospective, lessons learned series about the gaming community I started and ran for four years. This part focuses on the context, the opportunities I saw, and how CORE came to be. 
 date: 02 June 2022
 image: 
-  path: /assets/img/projects/BeerMetalPC.com.png
+  path: /assets/img/projects/6-Luna-min-1920.png
   srcset: 
     1920w: /assets/img/blog/6-Luna-min-1920.png
     960w:  /assets/img/blog/6-Luna-min-960.png
