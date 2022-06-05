@@ -18,6 +18,8 @@ sitemap: false
 * this unordered seed list will be replaced by the toc
 {:toc}
 
+> Featured image credit due to Ferrous Core member "Luna"
+
 In June 2017 I started an online community in preparation for the release of the video game Destiny 2, named Ferrous Core, or CORE for short. In the course of two years it had scaled to over 1000 all-time users and a range of 300-500 monthly active users. This was, in inadequate summary, a learning experience. 
 
 At that time, I was fed up with the gaming communities I had participated in over the last 5 years. Most had been good experiences, some perhaps lacking in certain qualities, and a few had been actively negative. Universally, all featured some blend of organizational and cultural issues that I felt dampened the experience or atmosphere they were trying to provide. Quite a few of these issues came down to the simplicity of both leaders and members in these organizations failing to treat the other people in the communities they participate in as people. Not surprisingly, control freaks, megalomaniacs, and toxic managers in day jobs tend to also be so in virtual spaces. 
