@@ -5,7 +5,7 @@ tags: [Gaming, Ferrous Core]
 caption: In 2017 I started a gaming community for Destiny 2. It was a learning experience, this is the context in which it came to be. 
 description: >
   A restrospective, lessons learned series about the gaming community I started and ran for four years. This part focuses on the context, the opportunities I saw, and how CORE came to be. 
-date: 02 June 2022
+date: 04 June 2022
 image: 
   path: /assets/img/projects/6-Luna-min-1920.png
   srcset: 
