@@ -18,17 +18,9 @@ sitemap: false
 * this unordered seed list will be replaced by the toc
 {:toc}
 
-<<<<<<< Updated upstream:_posts/2022-06-04-Ferrous-Core-Pt1.md
 > Featured image credit due to Ferrous Core member "Luna"
 
-In June 2017 I started an online community in preparation for the release of the video game Destiny 2, named Ferrous Core, or CORE for short. In the course of two years it had scaled to over 1000 all-time users and a range of 300-500 monthly active users. This was, in inadequate summary, a learning experience. 
-
-At that time, I was fed up with the gaming communities I had participated in over the last 5 years. Most had been good experiences, some perhaps lacking in certain qualities, and a few had been actively negative. Universally, all featured some blend of organizational and cultural issues that I felt dampened the experience or atmosphere they were trying to provide. Quite a few of these issues came down to the simplicity of both leaders and members in these organizations failing to treat the other people in the communities they participate in as people. Not surprisingly, control freaks, megalomaniacs, and toxic managers in day jobs tend to also be so in virtual spaces. 
-
-I wasn't satisfied with recent experience, and with my hype level rising around Destiny 2 I decided that I didn't want to experience this game with a group where I would see the same mistakes and errors repeated. By building my own community, I could set the tone and expectations and steer it to what I felt would be the right place. 
-=======
 In June 2017 I started an online community in preparation for the release of the video game Destiny 2, named Ferrous Core, or CORE for short. In the course of two years it had scaled to over 1000 all-time users and a range of 300-500 monthly active users. I proceeded to operate CORE for four years, stepping back from a leadership position in 2021 due to new (but welcome) demands on my time and a loss of interest in the underlying game. 
->>>>>>> Stashed changes:_posts/2022-06-02-Ferrous-Core-Pt1.md
 
 Over the past five years, several current and former members of that community, several close friends, and even some in my family have registered interest about the hows and whys of this pet project. How did it come to be, what were the foundational ideas and ideals? What did I learn from it? What would I do different? 
 
