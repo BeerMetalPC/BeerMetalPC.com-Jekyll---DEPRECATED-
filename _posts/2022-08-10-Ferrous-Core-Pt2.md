@@ -1,3 +1,4 @@
+---
 layout: post
 title: I Ran a Community | Lessons Learned at Ferrous Core Pt.2
 tags: [Gaming, Ferrous Core]
@@ -12,7 +13,6 @@ image:
     960w:  /assets/img/blog/solcore-960-min.png
     480w:  /assets/img/blog/solcore-480-min.png
 sitemap: false
-
 ---
 
 * this unordered seed list will be replaced by the toc
