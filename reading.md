@@ -12,25 +12,27 @@ This is a running list of books I've read, am reading, or plan to read, plus cur
 ---
 
 ## Current Certification Study
-### ISACA CRISC
-Pursuing because CRISC feels like a natural pairing to my current role as the BISO function advises our assigned business group on how to identify, assess, and manage security risks. This will complete a personal goal to obtain a certification trifecta covering each line of defense: 1st CCSP , 2nd CRISC, 3rd CISA. 
-
-Resources:
-- ISACA's CRISC review manual, 7th edition. 
-- ISACA's CRISC Questions, Answers, and Explanations manual, 6th edition. 
+N/A - considering my next steps. 
 
 ## Currently Reading
-
-Currently focusing on CRISC study. 
+Re-reading / listening to audiobook versions of The Lord of the Rings trilogy by J.R.R. Tolkien, Rob Inglis narration. 
 
 ---
 
 ## Recently Read
+### Certification Study: ISACA CRISC
+Completed August 2022. CRISC is a natural pairing to my role as a BISO, and completed a personal goal to obtain a certification trifecta covering each line of defense: 1st line CCSP, 2nd line CRISC, 3rd line CISA. I made use of both the CRISC review manual and QAE book, but realizing I wasn't making enough headway with these I went back to the tried and true method from my CISA study of of doing a ten question PocketPrep quiz every day. PocketPrep I had to pay for this time: $47.99 for three months access, worth it to enforce consistent daily study. 
+
+Resources used: 
+- ISACA's CRISC review manual, 7th edition. 
+- ISACA's CRISC Questions, Answers, and Explanations manual, 6th edition. 
+- PocketPrep.com's CRISC module
+
 ### *How to Measure Anything in Cybersecurity Risk* by Douglas W. Hubbard & Richard Seiersen
 8/10. Solid read that I would recommend to any security practitioner. It arms the reader well with an understanding of what can be measured, how measurements can be applied to reduce uncertainty, and why ordinal, qualitative approaches to risk assessment are setting us up for failure. Although I will readily admit that implementing the core quantitative and statistical lessons of this work within my own organization feels beyond my standing. The book reads generally well, but hits a zone of sleep inducing **hard statistics** in the final third. 
 
 ### Certification Study: ISACA CISA
-Completed October 2021. I put this off for years and finally resolved to get it done via self study in 2021. I settled on a routine of doing a ten question PocketPrep quiz every day, doing some reading from the review manual every week (okay closer to every two), and as I got closer to exam day I would use PocketPrep 100 question quizzes as mock exams. PocketPrep was surprisingly effective and I would highly recommend them if you learn well via regular quizzing, albeit their subscription pricing may be a turn off to some. ISACAs review manuals are notoriously long and dry, and I understand why they have that reputation now. I've not yet noticed any effect of the cert in my career, apart from being more email signature dressing; the material studied has primarily reinforced concepts I was already aware of.  
+Completed October 2021, overall exam score 573. I put this off for years and finally resolved to get it done via self study in 2021. I settled on a routine of doing a ten question PocketPrep quiz every day, doing some reading from the review manual every week (okay closer to every two), and as I got closer to exam day I would use PocketPrep 100 question quizzes as mock exams. PocketPrep was surprisingly effective and I would highly recommend them if you learn well via regular quizzing, albeit their subscription pricing may be a turn off to some. ISACAs review manuals are notoriously long and dry, and I understand why they have that reputation now. 
 
 Resources used: 
 - ISACA's CISA review manual, 26th edition
