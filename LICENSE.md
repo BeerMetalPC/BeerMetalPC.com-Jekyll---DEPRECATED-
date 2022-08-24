@@ -12,11 +12,11 @@ All blog posts, projects, and content within *.BeerMetalPC.com is licensed under
 
 Credit to Lazy Ren for [customizations of the Hydejack theme](https://lazyren.github.io/devlog/how-i-customized-hydejack-theme.html), including integration of the Applause button and the Tags page. 
 
-Hydejack requires placing [GPLv3](https://hydejack.com/CHANGELOG/#license-change) in the repository; it is copied in full below accordingly under the corresponding header. See also Hydejack's [notice.](/NOTICE)
+Hydejack requires placing [GPLv3](https://hydejack.com/CHANGELOG/#license-change) in the repository; it is copied in full below accordingly. See also Hydejack's [notice.](/NOTICE)
 
-This site also uses the [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag) plugin. This plugin is licensed under the MIT license, which is also copied in full below under the corresponding header. 
+## GNU GENERAL PUBLIC LICENSE
+{:.no_toc}
 
-# GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
 
 Copyright (C) 2007 Free Software Foundation, Inc.
@@ -635,25 +635,3 @@ reviewing courts shall apply local law that most closely approximates
 an absolute waiver of all civil liability in connection with the
 Program, unless a warranty or assumption of liability accompanies a
 copy of the Program in return for a fee.
-
-# The MIT License (MIT)
-
-Copyright (c) 2015-present Ben Balter and the jekyll-seo-tag contributors
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
