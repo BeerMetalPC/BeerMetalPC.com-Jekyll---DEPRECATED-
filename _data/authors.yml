@@ -23,7 +23,6 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     twitter:         BeerMetalPC
-    mastodon:        @BeerMetalPC
     github:          BeerMetalPC
     linkedin:        frankhelm
     email:           contact@BeerMetalPC.com
@@ -63,6 +62,7 @@ author1:
     # paypal:          <username>
     # download:        <url>
     # keybase          <username>
+    mastodon:        @BeerMetalPC
 
 # Another author (optional)
 author2:
