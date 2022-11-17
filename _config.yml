@@ -44,7 +44,7 @@ author:
   name:                Frank Helm
   email:               contact@BeerMetalPC.com
   # # Used by `jekyll-seo-tag`:
-  twitter:             BeerMetalPC
+# twitter:             BeerMetalPC
 
 # Add links to the sidebar.
 menu:
@@ -373,7 +373,7 @@ plugins:
 # social:
 #   name:                Frank Helm
 #   links:
-#     - https://twitter.com/BeerMetalPC
+#     - https://infosec.exchange/@BeerMetalPC
 #     - https://github.com/BeerMetalPC
 #     - https://linkedin.com/in/FrankHelm
 
