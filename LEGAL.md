@@ -9,7 +9,7 @@ sitemap: false
 {:toc .large-only}
 
 **Effective Date:** March 11, 2022
-**Last Revised:** November 16, 2022 - updated contact email, and cleaned up several unnecessarily verbose phrasings. 
+**Last Revised:** November 16, 2022 : Multiple updates including contact email change, cleaned up several overly verbose phrasings, added a PSA on Cloudflare, and added Mastodon under third parties. 
 
 This is a personal website, and will be kept free of complicated rules if/where possible. Anything on this page applies only to websites. Questions or issues with regard to this site, its policies, and its upkeep may be addressed by email to [contact@FrankHelm.com](mailto:contact@FrankHelm.com).
 
@@ -29,7 +29,7 @@ No cookies are collected or stored by this site or its operator.
 
 Google Fonts are not used on this site. 
 
-Cloudflare is not used by this site. [CloudFlare](https://srslyriskybiz.substack.com/p/albania-severs-diplomatic-ties-with) [supports](https://www.vice.com/en/article/j5yxxg/cloudflare-is-protecting-a-site-linked-to-a-neo-nazi-terror-group) [hate](https://www.theguardian.com/world/2018/feb/10/web-giant-cloudflare-storing-extreme-neo-nazi-content-on-uk-soil) [groups](https://qz.com/1053689/cloudflare-is-the-one-tech-company-still-sticking-by-neo-nazi-websites-like-daily-stormer) and you should stop doing business with them.
+Cloudflare is not used by this site. [Cloudflare](https://srslyriskybiz.substack.com/p/albania-severs-diplomatic-ties-with) [supports](https://www.vice.com/en/article/j5yxxg/cloudflare-is-protecting-a-site-linked-to-a-neo-nazi-terror-group) [hate](https://www.theguardian.com/world/2018/feb/10/web-giant-cloudflare-storing-extreme-neo-nazi-content-on-uk-soil) [groups](https://qz.com/1053689/cloudflare-is-the-one-tech-company-still-sticking-by-neo-nazi-websites-like-daily-stormer) and you should stop doing business with them.
 
 [GoatCounter](https://goatcounter.com/) is an [open source](https://github.com/arp242/goatcounter) service used for site analytics. You can view this site's GoatCounter dashboard [here.](https://bhksuhd32g.goatcounter.com/) What you see on this dashboard is the same thing I see. You can view GoatCounter's privacy policy [here.](https://www.goatcounter.com/help/privacy) You can disable GoatCounter by blocking gc.zgo.at in your adblocker or firewall.  
 
