@@ -8,9 +8,10 @@ sitemap: false
 * this list will be replaced by the toc
 {:toc .large-only}
 
-**Effective Date:** March 11, 2022.
+**Effective Date:** March 11, 2022
+**Last Revised:** November 16, 2022 - updated contact email, and cleaned up several unnecessarily verbose phrasings. 
 
-This is a personal website, and will be kept free of complicated rules if/where possible. Anything on this page applies only to websites. Questions or issues with regard to this site, its policies, and its upkeep may be addressed by email to [contact@BeerMetalPC.com](mailto:contact@BeerMetalPC.com).
+This is a personal website, and will be kept free of complicated rules if/where possible. Anything on this page applies only to websites. Questions or issues with regard to this site, its policies, and its upkeep may be addressed by email to [contact@FrankHelm.com](mailto:contact@FrankHelm.com).
 
 - This website and the thoughts and opinions therein are my *personal opinion*. Unless otherwise explicitly specified, content on this site is not endorsed by other parties whom I am involved with or connected to. 
 - Under no circumstances shall I be individually liable to anyone for any damages caused by third parties involved in the hosting, delivery, rendering, or upkeep of this site, unless my act or failure to act constitutes intentional misconduct, fraud, or knowing violation of the law. 
@@ -24,11 +25,11 @@ This website does rely on and make use of other services which ***may*** collect
 
 ## First Party
 
-No cookies are collected, used, or stored by this site or its operator. 
+No cookies are collected or stored by this site or its operator. 
 
 Google Fonts are not used on this site. 
 
-Cloudflare is not used by this site. 
+Cloudflare is not used by this site. [CloudFlare](https://srslyriskybiz.substack.com/p/albania-severs-diplomatic-ties-with) [supports](https://www.vice.com/en/article/j5yxxg/cloudflare-is-protecting-a-site-linked-to-a-neo-nazi-terror-group) [hate](https://www.theguardian.com/world/2018/feb/10/web-giant-cloudflare-storing-extreme-neo-nazi-content-on-uk-soil) [groups](https://qz.com/1053689/cloudflare-is-the-one-tech-company-still-sticking-by-neo-nazi-websites-like-daily-stormer) and you should stop doing business with them.
 
 [GoatCounter](https://goatcounter.com/) is an [open source](https://github.com/arp242/goatcounter) service used for site analytics. You can view this site's GoatCounter dashboard [here.](https://bhksuhd32g.goatcounter.com/) What you see on this dashboard is the same thing I see. You can view GoatCounter's privacy policy [here.](https://www.goatcounter.com/help/privacy) You can disable GoatCounter by blocking gc.zgo.at in your adblocker or firewall.  
 
@@ -36,11 +37,10 @@ Cloudflare is not used by this site.
 
 This site is hosted on Netlify, which may collect cookies and log files amonst other information. If you have specific questions about Netlify's data collection practices, review their [Privacy Policy](https://www.netlify.com/privacy) and [GDPR/CCPA Policy](https://www.netlify.com/gdpr-ccpa) for further information and resources. 
 
-This site may include embeds from other websites. These are explicitly stated and their privacy policy or most relevant policy linked below.
+This site may include embeds from other websites. As a preemptive measure, I provide here the privacy policy or most relevant policy of the services from which I have embedded content in the past or otherwise anticipate doing so in the future. 
+
+- Mastodon : As Mastodon relies on multiple instances brought together via federation, Terms of Service and Privacy Policies may vary instance to instance. I link here to [infosec.exchange's privacy policy](https://infosec.exchange/privacy-policy), as it is the instance I interact with most and am most likely to embed any posts from. 
 - Twitter : [Twitter for Websites - ads info and privacy](https://help.twitter.com/en/twitter-for-websites-ads-info-and-privacy)
-- YouTube : [Privacy Enhanced Mode](https://support.google.com/youtube/answer/171780?hl=en) is utilized wherever a YouTube embed is present on this site.  
+- YouTube : [Privacy Enhanced Mode](https://support.google.com/youtube/answer/171780?hl=en) is utilized wherever a YouTube embed is present on this site. 
 
 You may be trackable through external links to other websites. Websites and webservices other than this site and their cross site tracking methods are outside the scope of this privacy statement. You must do your own due diligence in this regard. 
-
-
-
