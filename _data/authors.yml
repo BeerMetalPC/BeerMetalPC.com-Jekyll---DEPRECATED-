@@ -3,7 +3,7 @@
 # Change `author1` to your shortname.
 author1:
   name:              Frank Helm
-  email:             contact@BeerMetalPC.com
+  email:             contact@FrankHelm.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -24,10 +24,10 @@ author1:
   social:
     # twitter:         BeerMetalPC
     mastodon:   https://infosec.exchange/@BeerMetalPC
-    keybase:       BeerMetalPC
+    keybase:      BeerMetalPC
     github:          BeerMetalPC
     linkedin:        frankhelm
-    email:           contact@BeerMetalPC.com
+    email:           contact@FrankHelm.com
     rss:             https://BeerMetalPC.com/feed.xml
     # facebook:        <username>
     # google:          <number>
