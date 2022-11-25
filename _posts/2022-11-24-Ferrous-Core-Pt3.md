@@ -20,7 +20,7 @@ sitemap: false
 
 This is part three in a series of blog posts about the gaming community I built and ran for four years based on the video game Destiny 2. This part focuses on lessons learned from the experience, and will likely be the last in the series. 
 
-# Misaligned Mindsets
+## Misaligned Mindsets
 
 I sought for CORE's membership to be open to players of all levels of interest and skill at the game. I wanted the community to accept differing focuses on cooperative and competitive content, differing progression goals, and differing levels of time investment, but with the clear expectation that we were a community focused on learning and growth, that [scrub logic](https://www.sirlin.net/ptw-book/introducingthe-scrub) had no place here. 
 
@@ -34,7 +34,7 @@ In writing about this it frustrates me to recall the number of issues that would
 
 From my perspective, with the label and enshrinement gone, although hardcore's players essentially continued as their own cliques in the larger whole, the dramatics and in turn regular need for administrative acts fell away. But in turn I know that disbanding hardcore damaged the relationships I had with the people running it, people who I genuinely enjoyed playing with and whose inputs I valued in the admin team. 
 
-# Toxic Personalities 
+## Toxic Personalities 
 
 One of the guidelines I have set for myself is that no social interaction I engage in is without value. Every conversation is an opportunity to walk away with more information or insight than I had five minutes ago, even if those learnings are as bleak as that the counter-party is someone who I would rather not interact with again. I, and I hope you, enter into most interactions trying to make the relationship work, trying to assume the best about people. 
 
@@ -46,7 +46,7 @@ We dealt with a lot of dumb issues while I was at CORE. If there's any single un
 
 Know that the people engaging in your community are not projects to be iterated and improved upon. No amount of redeeming qualities are worth the damage a toxic personality will do by their self-centeredness, disregard for others, or outright malice. Once it's clear they don't fit well in what you're building or running, I would urge you to politely part ways as best you can. 
 
-# Eroded Pedestals
+## Eroded Pedestals
 
 As a refresher from my previous postings, we set a role called "Proven" with a purple name in our Discord. These were to be line members of the community who had distinguished themselves as examples of our principles, people to look up to for our newcomers. 
 I allowed Proven's value to be eroded over time; the bar was allowed to dip too low, and to be too prone to individual favor as to who should be considered an example to be looked up to. There were two primary problems that weighed on the decision to ultimately scrap the Proven role:
@@ -59,7 +59,7 @@ Be wary of what, or whom, you set on a pedestal, and be especially wary of guara
 
 I had originally envisioned "ribbon" awards a la those found in some forum based communities (e.g. [ribbon images in forum signatures](https://wiki.eveuniversity.org/EVE_University_Ribbons)) as a means of conveying this information without enshrining the user themselves, but there is/was no such solution for a Discord-based community. The role-based differentiation was a mistake, but was unfortunately the best tool available for what was originally intended, and the next best alternative before us was to not bother.
 
-# Sensitive Subjects
+## Sensitive Subjects
 
 Most online-communities have a no politics and no religion rule for very good reason. We thought we could do better. We set up a channel called The Debate Hall with the intent that instead of quashing such conversations, we could instead redirect them productively. We did our utmost to set clear expectations about conduct therein in line with our principles and not making it personal. Debate Hall conversations disabused me, and many others, of several misconceptions and outright falsehoods I had carried in my mind for well over a decade.
 
@@ -71,7 +71,7 @@ I also know full well I fell into the trap of [tone policing](https://en.wikiped
 
 If you're not actively striving to correct the problems being caused by bad actors, you're not fostering a healthy environment. If someone is throwing rocks in the pool, don't try to turn the waves into ripples, get rid of the rock-thrower. 
 
-# Limitations of our Platforms
+## Limitations of our Platforms
 
 Being along for the ride with Discord's meteoric ascendancy to becoming a mainstream messaging app was a substantial reason for our growth as a community, but also meant that we experienced major feature updates and some scrambling to ensure everything was still working as anticipated. Credit where due, Discord has done a much better job in the last two years of proactively communicating updates and new functionality to server owners and community operators. 
 
@@ -96,7 +96,7 @@ Bungie capped their in-game organizations, "clans", at 100 users. Add in the fac
 
 Bungie, if any of your employees ever read this, not only was this upkeep in Bungie.net a pointless and unnecessary time sink, it was such on players who not only played your game, but went out of their way to create the conditions for fun and friendships that kept your game afloat through the bad times and content droughts. I would rather have no formalized community structure in a video game than have one that is actively burdensome to maintain. 
 
-# What was fun, became a chore
+## What was fun, became a chore
 
 Streamers and other content creators talk about this consequence relatively often, as to how and when they experience burnout. Multiple times throughout my time with CORE, I sat down at my computer intending to log in and play the game, but instead had to push out an announcement post, or process probationary to full member promotions, welcome and set up an influx of new members, free up player slots in the in game clans, respond to emails, DMs, messages, and at worst deal with problems covering the gamut from technical issues, to petty spats and abusive behavior. 
 
