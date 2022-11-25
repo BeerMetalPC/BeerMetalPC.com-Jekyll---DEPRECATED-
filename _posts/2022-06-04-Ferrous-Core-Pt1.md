@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I Built a Community | Lessons Learned at Ferrous Core, Part 1
+title: I Built a Community | Lessons Learned at Ferrous Core Pt.1
 tags: [Gaming, Ferrous Core]
 caption: In 2017 I started a gaming community for Destiny 2. It was a learning experience, this is the context in which it came to be. 
 description: >
@@ -30,7 +30,6 @@ To set expectations, this topic would be far too lengthy if done as a single par
 - This part, Part 1, covers the context in which CORE came to be, and the motivating factors and ideals that I felt would give rise to the environment I wanted to foster. 
 - Part 2 will cover things that worked, largely structural, organizational decisions. Take them as good ideas for other such gaming communities. 
 - Part 3 will cover what didn't work, or otherwise went askew.  Where Part 2 is more specific to gaming communities, this one has more relevance to a broader spectrum of organizations, both online and otherwise. 
-- Part 4 has not yet been drafted at the time of this writing, however I expect it to take an introspective tack, to examine what I would do different were I to do it all again. 
 
 Perhaps the most important learning was that my girlfriend at the time, turned fiancée, turned wife, somehow put up with my ramblings and frustrations throughout all of this. ❤️
 
