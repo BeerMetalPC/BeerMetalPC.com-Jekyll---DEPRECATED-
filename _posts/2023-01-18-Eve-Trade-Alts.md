@@ -1,3 +1,4 @@
+---
 layout: post
 title: Eve Online - Using Trade Alts for Profit
 tags: [gaming, eve online]
