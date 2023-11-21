@@ -210,3 +210,7 @@ mastodon:
   name: Mastodon
   icon: icon-mastodon
   prepend: "https://infosec.exchange/"
+threads:
+  name: Threads
+  icon: icon-threads
+  prepend: "https://www.threads.net/"

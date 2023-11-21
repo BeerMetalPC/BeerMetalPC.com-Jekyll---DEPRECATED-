@@ -9,13 +9,13 @@ sitemap: true
 
 Hey there, I'm Frank (he/him/they).
 
-At the desk: I'm a Business Information Security Officer, or "BISO", serving as a bridge between our security and operations organizations. My experience has largely been on the GRC side of cybersecurity, with dalliances in M&A and threat modeling. I've found I'm not great at the actual hands on keyboard engineering and hacking sides of security, but I grok and communicate the technical, business, risk facets such that I fit well in "bridge" roles between organizations. 
+At the desk: I'm a Business Information Security Officer, or "BISO", serving as a bridge between our security and operations organizations. My experience has largely been on the GRC side of cybersecurity, with detours through M&A and threat modeling. I've found over the years that I'm not great at programming, and consequently not at red teaming, but I grok and communicate the technical, business, risk facets such that I fit well in "bridge" roles between organizations. 
 
 Away from the desk: 
-- I'm trying to foster the hacker mindset in one tiny human. 
+- I'm trying to foster the hacker mindset in two tiny humans. 
 - I'm a mediocre runner, 5k being my preferred distance, and help maintain a running Meetup group in Chicago.
-- I enjoy games; video, tabletop, the study of game theory. I ran a large Destiny 2 community for several years and have written about that [here](/blog/2022-06-04-Ferrous-Core-Pt1). 
-- I love a good beer or whiskey and will gladly take recommendations. 
+- I enjoy games; video, tabletop, the study of game theory. I ran a large Destiny 2 community for several years, I've written about that [here](/blog/2022-06-04-Ferrous-Core-Pt1). 
+- I really like a good beer or whiskey and will gladly take recommendations. 
 - I was diagnosed with ADHD as an adult, and am now figuring out what/if/how that impacts other parts of my life. 
 - I'm a fan of the Pittsburgh Steelers, Arsenal, and Borussia Dortmund; I can sometimes be found amidst the [Chicago Gooners](https://www.chicagogooners.com/). 
 
@@ -33,5 +33,4 @@ Is my personal branding a mess as a result? Yes. 😆
 I try to attend at least one security conference per year. You can see which ones I'll be at, and whether I'm doing anything more than just attending, (volunteering, speaking, etc.) below. Feel free to say hi if we cross paths!
 
 ### Blue Team Con
-I was a safety volunteer at Blue Team Con 2022, and plan to be volunteering again at [Blue Team Con](https://blueteamcon.com/) 2023. 
-If you find yourself in Chicago prior to the conference, consider coming out to our local and unrelated infosec meetup: [Burbsec East.](https://burbsec.com/#groups)
+I was unable to attend Blue Team Con 2023 due to the birth of my second child coinciding with the conference. I intend to be back, and volunteering again, in 2024. 

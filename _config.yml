@@ -28,10 +28,10 @@ description:           >
   Hey, I'm Frank. This is a personal site about cybersecurity, risk, games, and whatever else catches my interest. 
 
 # A shorter description for the sidebar.
-tagline:               Security and Frivolity
+tagline:               @BeerMetalPC
 
 # A list of keywords for your blog
-keywords:              [Security, Cyber, Cybersecurity, Infosec, BeerMetalPC]
+keywords:              [Security, Cybersecurity, Infosec, Gaming, BeerMetalPC]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -42,7 +42,7 @@ logo:                  /assets/img/logo.png
 author:
   # Used by `jekyll-feed`:
   name:                Frank Helm
-  email:               contact@FrankHelm.com
+  email:               email@BeerMetalPC.com
   # # Used by `jekyll-seo-tag`:
 # twitter:             BeerMetalPC
 
@@ -54,8 +54,6 @@ menu:
     url:               /blog/
   - title:             Projects
     url:               /tag-project/
-  - title:             Reading
-    url:               /reading/
   - title:             Tags
     url:               /tags/
 
@@ -373,10 +371,8 @@ plugins:
 # social:
 #   name:                Frank Helm
 #   links:
-#     - https://infosec.exchange/@BeerMetalPC
+#     - https://www.threads.net/@beermetalpc
 #     - https://github.com/BeerMetalPC
-#     - https://linkedin.com/in/FrankHelm
-
 
 # Plugin Configs
 # ---------------------------------------------------------------------------------------

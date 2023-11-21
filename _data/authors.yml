@@ -23,12 +23,13 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     # twitter:         BeerMetalPC
-    mastodon:   https://infosec.exchange/@BeerMetalPC
-    keybase:      BeerMetalPC
-    github:          BeerMetalPC
-    linkedin:        frankhelm
-    email:           contact@FrankHelm.com
-    rss:             https://BeerMetalPC.com/feed.xml
+    # mastodon:   https://infosec.exchange/@BeerMetalPC
+    threads:        @beermetalpc
+    keybase:        BeerMetalPC
+    github:         BeerMetalPC
+    # linkedin:       frankhelm
+    email:          email@BeerMetalPC.com
+    rss:            https://BeerMetalPC.com/feed.xml
     # facebook:        <username>
     # google:          <number>
     # vk:              <username>
