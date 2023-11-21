@@ -214,3 +214,7 @@ threads:
   name: Threads
   icon: icon-threads
   prepend: "https://www.threads.net/"
+untappd:
+  name: Untappd
+  icon: icon-untappd
+  prepend: "https://untappd.com/user/"
