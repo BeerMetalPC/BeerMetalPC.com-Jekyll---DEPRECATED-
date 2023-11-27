@@ -55,7 +55,8 @@ Second: the admin console for Zoho is featured as if for an enterprise organizat
 - Also set up [**SPF**](https://www.zoho.com/mail/help/adminconsole/spf-configuration.html), **[DKIM](https://www.zoho.com/mail/help/adminconsole/dkim-configuration.html)**, and **[DMARC](https://www.zoho.com/mail/help/adminconsole/dmarc-policy.html)** records while you're at it. 
 - Other [**Domain Settings**](https://www.zoho.com/mail/help/adminconsole/domain-settings.html): most of these probably won't be relevant to you, but do set [Catch-all and Notification addresses](https://www.zoho.com/mail/help/adminconsole/catch-all-setup.html#alink2). 
 
-If you plan to use Zoho mail accounts in 3rd-party apps via [IMAP](https://www.zoho.com/mail/help/imap-access.html) or POP, you will need to create **[Application-Specific Passwords](https://www.zoho.com/mail/help/adminconsole/two-factor-authentication.html#alink7)**. 
+If you plan to use Zoho mail accounts in 3rd-party apps via [IMAP](https://www.zoho.com/mail/help/imap-access.html) or POP, you will need to create **[Application-Specific Passwords](https://www.zoho.com/mail/help/adminconsole/two-factor-authentication.html#alink7)**. If you're having trouble locating this, you have to create these from your [Zoho My Account](https://accounts.zoho.com/home#security/security_pwd), Security page. 
+
 ### Spam Controls
 
 Due to my relative inexperience with the plumbing of email, I've set most of the [Spam Verification](https://mailadmin.zoho.com/cpanel/home.do#securityAndCompliance/spamControl/verification) options in the admin console to quarantine mail that fails these checks. I started out with these settings so that I could see what was coming in, with the intent to move to the permanent reject option later. 
@@ -76,7 +77,7 @@ After completing your work, it's a good idea to review the [Security and Complia
 
 ### The Bad 
 
-**Syncing contacts sucks.** It has been, and remains, a bad user experience to sync contacts across multiple walled gardens. Zoho *can* export [via CardDAV](https://www.zoho.com/mail/help/CardDAV.html), but in my experience this may introduce more problems for you than it solves if you already treat e.g. Apple or Google Contacts as your contact book of record.
+**Syncing contacts sucks.** It has been, and remains, a bad user experience to sync contacts across multiple walled gardens. Zoho *can* export [via CardDAV](https://www.zoho.com/mail/help/CardDAV.html), but in my experience, this may introduce more problems for you than it solves if you already treat e.g. Apple or Google Contacts as your contact book of record. Instead, do periodic exports of your Apple or Google contacts in vcard format, .vcf, and import those into Zoho Contacts. 
 
 ### The Good
 
@@ -99,7 +100,7 @@ And to a lesser extent, a near-total reduction in phishing and spam directed to 
 
 ---
 
-
+## Conclusion
 
 
 Overall, Zoho Mail is worth consideration for those in need of a reliable and affordable email client. I hope that this serves as an effective entry, and jumping-off point for your own move away from consumer-grade, advertising-laden options. 
