@@ -218,3 +218,7 @@ untappd:
   name: Untappd
   icon: icon-untappd
   prepend: "https://untappd.com/user/"
+bluesky:
+  name: Bluesky
+  icon: icon-bubble
+  prepend: "https://bsky.app/profile/beermetalpc.bsky.social"
