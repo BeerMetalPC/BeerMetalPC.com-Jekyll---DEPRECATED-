@@ -21,7 +21,7 @@ Away from the desk:
 
 This [Blog](/blog/) is for sharing of things, both found and experienced, both security/GRC and frivolity. I am not a thought leader, I'm not famous on Infosec ~~Twitter~~ Mastodon, but sometimes my ever-ongoing dopamine chase requires writing and I can but hope something appears here that someone might derive value from. Also found here are a running [reading](/reading/) and study list, and any conference talks or hands-on extracirriculars in [Projects](/tag-project/).
 
-If you're going to consume anything from this site, I recommend that you kick your feet up and grab a drink of your choosing; you've probably earned it. If you found something here useful, [let me know!](https://infosec.exchange/@BeerMetalPC)
+If you're going to consume anything from this site, I recommend that you kick your feet up and grab a drink of your choosing; you've probably earned it. If you found something here useful, [let me know!](https://bsky.app/profile/beermetalpc.bsky.social)
 
 ## What's the name mean?
 

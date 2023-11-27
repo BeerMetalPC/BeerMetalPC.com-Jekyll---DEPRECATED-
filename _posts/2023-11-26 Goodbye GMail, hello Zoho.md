@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Goodbye GMail, hello Zoho
-tags:
-  - project
+tags: [project]
 caption: Lessons from upgrading my personal email to business class
 description: In October 2021 I jumped from freebie GMail to business-class email provider Zoho. This is guidance on how you can get started and what resources may help.
-date: 26 November 2023
+date: 26 Nov 2023
 image:
   path: /assets/img/projects/ZohoConsole1-1920-min.png
   srcset:
