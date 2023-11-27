@@ -53,7 +53,7 @@ Second: the admin console for Zoho is featured as if for an enterprise organizat
 
 **[MX (DNS) records configuration](https://www.zoho.com/mail/help/adminconsole/configure-email-delivery.html)**: Most of the work here will be in your registrar's admin panel. 
 - Also set up [**SPF**](https://www.zoho.com/mail/help/adminconsole/spf-configuration.html), **[DKIM](https://www.zoho.com/mail/help/adminconsole/dkim-configuration.html)**, and **[DMARC](https://www.zoho.com/mail/help/adminconsole/dmarc-policy.html)** records while you're at it. 
-- **Other [Domain Settings**](https://www.zoho.com/mail/help/adminconsole/domain-settings.html): most of these probably won't be relevant to you, but do set [Catch-all and Notification addresses](https://www.zoho.com/mail/help/adminconsole/catch-all-setup.html#alink2). 
+- Other [**Domain Settings**](https://www.zoho.com/mail/help/adminconsole/domain-settings.html): most of these probably won't be relevant to you, but do set [Catch-all and Notification addresses](https://www.zoho.com/mail/help/adminconsole/catch-all-setup.html#alink2). 
 
 If you plan to use Zoho mail accounts in 3rd-party apps via [IMAP](https://www.zoho.com/mail/help/imap-access.html) or POP, you will need to create **[Application-Specific Passwords](https://www.zoho.com/mail/help/adminconsole/two-factor-authentication.html#alink7)**. 
 ### Spam Controls
@@ -95,7 +95,12 @@ And to a lesser extent, a near-total reduction in phishing and spam directed to 
 **Configuring third-party clients** e.g. Apple Mail or Thunderbird still isn't quick per se. I recommend closely following Zoho's own instructions for [Apple Mail ](https://www.zoho.com/mail/help/apple-mac-imap.html) or [Thunderbird](https://www.zoho.com/mail/help/thunderbird-imap-access.html) and referencing their instructions for [Enabling IMAP Access](https://www.zoho.com/mail/help/imap-access.html#EnableIMAP) which also contains the relevant server addresses, ports, and other settings.  
 
 
+
+
 ---
+
+
+
 
 Overall, Zoho Mail is worth consideration for those in need of a reliable and affordable email client. I hope that this serves as an effective entry, and jumping-off point for your own move away from consumer-grade, advertising-laden options. 
 
