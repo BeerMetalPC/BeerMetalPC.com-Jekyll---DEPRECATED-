@@ -17,9 +17,9 @@ sitemap: false
 * this unordered seed list will be replaced by the toc
 {:toc}
 
-In October 2021 I jumped from freebie GMail to business-class email provider Zoho. We have been living in the age of cloud computing and "free" services (in exchange for harvesting your data) for some time now. Paying for so basic a tool as personal email no longer sits well with most consumers, but I've since seen tangible benefits from moving from Gmail to a paid service. 
+In October 2021 I jumped from freebie GMail to business-class email provider Zoho. We have been living in the age of cloud computing and "free" services (in exchange for harvesting your data) for some time now. Paying for so basic a tool as personal email no longer sits well with most consumers, but I've since seen tangible benefits from moving from GMail to a paid service. 
 
-In this post, I'll talk through this decision, lessons learned, and provide resources that were helpful in making the switch. 
+In this post, I'll talk through this decision to move away from GMail, the lessons learned, and provide links to Zoho documentation that were helpful in making the switch. This post is not sponsored, I do not receive any incentive from Zoho. I just think that this was a worthwhile switch in email providers, and thus worth writing down for others who may take the same decision. 
 
 ## Why Move? 
 
