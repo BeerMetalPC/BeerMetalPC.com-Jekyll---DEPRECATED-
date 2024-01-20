@@ -21,11 +21,6 @@
         "url": "https://www.linkedin.com/in/frankhelm/"
       },
       {
-        "network": "Credly",
-        "username": "BeerMetalPC",
-        "url": "https://www.credly.com/users/beermetalpc/badges"
-      },
-      {
         "network": "Threads",
         "username": "BeerMetalPC",
         "url": "https://threads.net/@beermetalpc"
@@ -171,10 +166,11 @@
       "name": "Cyber Security",
       "level": "",
       "keywords": [
-        "Awareness",
         "GRC",
         "Exception Management",
-        "Project Consulting"
+        "Project Consulting",
+        "Data Loss Prevention",
+        "Awareness/Education"
       ]
     },
     {
