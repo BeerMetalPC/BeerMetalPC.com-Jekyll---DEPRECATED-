@@ -1,9 +1,10 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
-  "basics": {
+  "basics": 
+  {
     "name": "Frank Helm",
     "label": "Buisiness Information Security Officer | CISA, CRISC, CCSP",
-    "image": "https://www.beermetalpc.com/assets/img/logo-256.png",
+    "image": "/assets/img/logo-256.png",
     "email": "CV@FrankHelm.com",
     "phone": "",
     "url": "https://www.FrankHelm.com/",
@@ -36,11 +37,11 @@
     {
       "name": "BMO Financial Group",
       "position": "Business Information Security Officer",
-      "url": "https//bmo.com/",
+      "url": "https://www.bmo.com/",
       "startDate": "2021-11-01",
       "endDate": "",
       "highlights": [],
-      "summary": "This is a test",
+      "summary": "This is a test"
     },
     {
       "name": "BMO Financial Group",
@@ -98,7 +99,7 @@
       "startDate": "2022-08-26",
       "endDate": "2022-08-31",
       "highlights": [],
-      "summary": "Safety and teardown volunteer at Blue Team Con 2022.",
+      "summary": "Safety and teardown volunteer at Blue Team Con 2022."
     },
     {
       "organization": "Computer Ministry Inc",
@@ -107,7 +108,7 @@
       "startDate": "2008-06-30",
       "endDate": "2012-12-31",
       "highlights": [],
-      "summary": "Organization which collects and recycles computers and other electronics. Devices that are still usable are securely wiped of donor's data, refurbished, and distributed to other non-profits. Worked as a volunteer with computer ministry throughout high school, and as available during undergrad.",
+      "summary": "Organization which collects and recycles computers and other electronics. Devices that are still usable are securely wiped of donor's data, refurbished, and distributed to other non-profits. Worked as a volunteer with computer ministry throughout high school, and as available during undergrad."
     }
   ],
   "education": [
@@ -125,7 +126,7 @@
       "institution": "East Stroudsburg University of Pennsylvania",
       "url": "https://www.esu.edu/",
       "area": "Computer Science",
-      "studyType": "Undergraduate Studies",
+      "studyType": "Undergraduate",
       "startDate": "2010-08-01",
       "endDate": "2012-12-31",
       "score": " 3.0",
@@ -136,40 +137,23 @@
     {
       "name": "Certified Information Systems Auditor (CISA)",
       "issuer": "ISACA",
-      "startDate": "2021-11-30",
-      "ID": "211634842",
+      "date": "2021-11-30",
       "url": "https://www.isaca.org/credentialing/verify-a-certification"
     },
     {
       "name": "Certified In Risk and Information Systems Control (CRISC)",
       "issuer": "ISACA",
-      "startDate": "2022-08-31",
-      "ID": "221902865",
+      "date": "2022-08-31",
       "url": "https://www.isaca.org/credentialing/verify-a-certification"
     },
     {
       "name": "Certified Cloud Security Professional (CCSP)",
       "issuer": "(ISC)²",
-      "startDate": "2020-02-28",
-      "ID": "726159",
+      "date": "2020-02-28",
       "url": "https://www.isc2.org/MemberVerification"
-    },
-    {
-      "name": "CompTIA Security+ ce",
-      "issuer": "CompTIA",
-      "endDate": "2017-11-30",
-      "startDate": "2014-11-30",
-      "url": "https://www.certmetrics.com/comptia/public/verification.aspx?code=YD0NWHJJ9P4QCD86"
     }
   ],
-  "awards": [
-    {
-      "name": "Being BMO 2019",
-      "date": "2019-12-01",
-      "awarder": "BMO Financial Group",
-      "summary": "..."
-    }
-  ],
+  "awards": [],
   "publications": [],
   "skills": [
     {
@@ -179,8 +163,9 @@
         "1A LOD",
         "1B LOD",
         "2 LOD",
-        "Technology",
-        "ONFR"
+        "ONFR",
+        "Cyber risk",
+        "Technology risk"
       ]
     },
     {
@@ -190,7 +175,7 @@
         "Awareness",
         "GRC",
         "Exception Management",
-        "Consulting"
+        "Project Consulting"
       ]
     },
     {
@@ -260,19 +245,30 @@
         "Embraces complexity",
         "Clear communication"
       ]
-    },
+    }
   ],
   "languages": [
     {
       "language": "English",
       "fluency": "Native Speaker"
-    },
-    {
-      "language": "Markdown",
-      "fluency": "Would speak it if possible"
     }
   ],
   "interests": [
+    {
+    "name": "Tabletop Games",
+    "keywords": [
+      "Resource Management",
+      "Deck Builders",
+      "Pen and Paper RPGs"
+      ]
+    },
+    {
+    "name": "Video Games",
+    "keywords": [
+      "Battletech",
+      "Warhammer 40000"
+      ]
+    },
     {
     "name": "Wildlife",
     "keywords": [

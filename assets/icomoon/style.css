@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?b6tt0g');
-  src:  url('fonts/icomoon.eot?b6tt0g#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?b6tt0g') format('truetype'),
-    url('fonts/icomoon.woff?b6tt0g') format('woff'),
-    url('fonts/icomoon.svg?b6tt0g#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?f8ls0w');
+  src:  url('fonts/icomoon.eot?f8ls0w#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?f8ls0w') format('truetype'),
+    url('fonts/icomoon.woff?f8ls0w') format('woff'),
+    url('fonts/icomoon.svg?f8ls0w#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -27,7 +27,7 @@
 
 .icon-credly .path1:before {
   content: "\eaef";
-  color: rgb(243, 108, 33);
+  color: rgb(48, 48, 48);
 }
 .icon-credly .path2:before {
   content: "\eaf0";
