@@ -3,7 +3,7 @@
   {
     "name": "Frank Helm",
     "label": "Buisiness Information Security Officer | CISA, CRISC, CCSP",
-    "image": "/assets/img/logo-256.png",
+    "image": "/assets/img/logo.png",
     "email": "CV@FrankHelm.com",
     "phone": "",
     "url": "https://www.FrankHelm.com/",
@@ -31,7 +31,6 @@
     {
       "name": "BMO",
       "position": "Business Information Security Officer",
-      "url": "https://www.bmo.com/",
       "startDate": "2021-11-01",
       "endDate": "",
       "highlights": [],
