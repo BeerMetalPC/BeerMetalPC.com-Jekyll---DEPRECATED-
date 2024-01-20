@@ -20,7 +20,7 @@ right_column:
   - skills
   - interests
 no_language_icons: true
-no_skill_icons: true
+no_skill_icons: false
 buttons:
   print: false
   pdf: /assets/Resume.pdf
