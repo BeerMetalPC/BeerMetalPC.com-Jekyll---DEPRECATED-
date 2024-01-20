@@ -117,19 +117,19 @@ education:
     # courses:
       # - "DB1101 - Basic SQL"
       # - "CS2011 - Java Introduction"
-certifications:  # this section is custom
-  - title: "Certified Information Security Auditor (CISA)"
-    certifyingBody: "ISACA"
-    verificationNumber:  211634842
-    website: https://www.isaca.org/credentialing/verify-a-certification
-  - title: "Certified in Risk and Information Systems Control (CRISC)"
-    certifyingBody: "ISACA"
-    verificationNumber:  221902865
-    website: https://www.isaca.org/credentialing/verify-a-certification
-  - title: "Certified Cloud Security Professional (CCSP)"
-    certifyingBody: "ISC²"
-    verificationNumber: 726159
-    website: https://my.isc2.org/s/MemberVerification
+# certifications:  # this section is custom
+#  - title: "Certified Information Security Auditor (CISA)"
+#    certifyingBody: "ISACA"
+#    verificationNumber:  211634842
+#    website: https://www.isaca.org/credentialing/verify-a-certification
+#  - title: "Certified in Risk and Information Systems Control (CRISC)"
+#    certifyingBody: "ISACA"
+#    verificationNumber:  221902865
+#    website: https://www.isaca.org/credentialing/verify-a-certification
+#  - title: "Certified Cloud Security Professional (CCSP)"
+#    certifyingBody: "ISC²"
+#    verificationNumber: 726159
+#    website: https://my.isc2.org/s/MemberVerification
 awards:
   - title: "Being BMO 2019"
     date: "2019-12-01"
