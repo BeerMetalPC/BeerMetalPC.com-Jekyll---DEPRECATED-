@@ -4,7 +4,7 @@
     "name": "Frank Helm",
     "label": "Information Security Officer",
     "image": "/assets/img/logo-256.png",
-    "email": "F@FrankHelm.com",
+    "email": "cv@FrankHelm.com",
     "phone": "",
     "url": "https://www.FrankHelm.com/",
     "summary": "Frank is a security and technology GRC professional with extensive experience in risk and exception management, threat modeling, M&A activities, 2nd line of defense effective challenge, and security governance. Frank presently serves as a Business Information Security Officer (BISO) aligned at BMO Financial Group where he bridges the Cyber Security organization with Operations teams and executives. Frank hails from Camp Hill, Pennsylvania, and has put down roots in Chicago, Illinois. Away from the desk, Frank formerly operated an online video game community of >1000 users and presently helps organize a bi-weekly running club. He's a mediocre runner, player of both video and tabletop games, a fan of Steelers, Arsenal, and Borussia Dortmund, and is trying to instill the hacker mindset in two tiny humans.",
@@ -14,7 +14,7 @@
       "countryCode": "US",
       "region": "Illinois"
     },
-    "profiles": [
+    "profiles": [ 
       {
         "network": "LinkedIn",
         "username": "frankhelm",
@@ -86,7 +86,7 @@
   "volunteer": [
     {
       "organization": "Blue Team Con",
-      "position": "Safety Volunteer",
+      "position": "Safety Team",
       "startDate": "2022-08-26",
       "endDate": "2022-08-31",
       "summary": "Safety and teardown volunteer at Blue Team Con 2022.",
@@ -95,31 +95,31 @@
     },
     {
       "organization": "COMPUTER MINISTRY INC",
-      "position": "Student Volunteer",
-      "startDate": "2009-06-30",
-      "endDate": "2014-09-30",
-      "summary": "Organization which collects and recycles computers and other electronics. Devices that can still be used are securely wiped of donor's data, refurbished, and distributed to non-profits in need of computers, both domestic and overseas. Worked as a volunteer with computer ministry throughout high school, and as available during undergrad.",
+      "position": "Volunteer",
+      "startDate": "2008-06-30",
+      "endDate": "2012-12-31",
+      "summary": "Organization which collects and recycles computers and other electronics. Devices that are still usable are securely wiped of donor's data, refurbished, and distributed to other non-profits. Worked as a volunteer with computer ministry throughout high school, and as available during undergrad.",
       "highlights": [],
-      "url": "https://www.linkedin.com/company/60089454"
+      "url": "https://main.compministry.org/"
     }
   ],
   "education": [
     {
       "institution": "Harrisburg University of Science and Technology",
-      "area": "Computer and Information Security",
-      "studyType": "Bachelor of Science - BS",
-      "startDate": "2013-12-31",
-      "endDate": "2015-12-31",
-      "score": "3.62 GPA",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2013-01-01",
+      "endDate": "2015-04-30",
+      "score": "3.62",
       "courses": []
     },
     {
       "institution": "East Stroudsburg University of Pennsylvania",
       "area": "Computer Science",
       "studyType": "",
-      "startDate": "2010-12-31",
+      "startDate": "2010-08-01",
       "endDate": "2012-12-31",
-      "score": " 3.0 GPA at transfer",
+      "score": " 3.0",
       "courses": []
     }
   ],
@@ -128,21 +128,22 @@
     {
       "name": "Certified Information Systems Auditor (CISA)",
       "issuer": "ISACA",
-      "endDate": "2024-12-31",
       "startDate": "2021-11-30",
+      "ID": "211634842",
       "url": "https://www.isaca.org/credentialing/verify-a-certification"
     },
     {
       "name": "Certified In Risk and Information Systems Control (CRISC)",
       "issuer": "ISACA",
       "startDate": "2022-08-31",
+      "ID": "221902865",
       "url": "https://www.isaca.org/credentialing/verify-a-certification"
     },
     {
       "name": "Certified Cloud Security Professional (CCSP)",
       "issuer": "(ISC)²",
-      "endDate": "2023-02-28",
       "startDate": "2020-02-28",
+      "ID": "726159",
       "url": "https://www.isc2.org/MemberVerification"
     },
     {
@@ -156,225 +157,72 @@
   "publications": [],
   "skills": [
     {
-      "name": "Problem Solving",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Emerging Technologies",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Technology Risk",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "IT Audit",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Cybersecurity",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Knowledge Management",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Customer Service",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Discord",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Digital Forensics",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "IT Controls",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Risk Assessment",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Process Improvement",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "ServiceNow",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Technical Support",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Public Speaking",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Information Assurance",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Regulatory Compliance",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "IT Risk Management",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Software Installation",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Cloud Security",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Troubleshooting",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Wiki Development",
-      "level": "",
+      "name": "Risk Management",
+      "level": "5/5",
       "keywords": []
     },
     {
       "name": "Threat Modeling",
-      "level": "",
+      "level": "3/5",
       "keywords": []
     },
     {
-      "name": "Operational Risk Management",
-      "level": "",
+      "name": "Cyber Security",
+      "level": "4/5",
       "keywords": []
     },
     {
-      "name": "Amazon Web Services (AWS)",
-      "level": "",
-      "keywords": []
+      "name": "Knowledge Management",
+      "level": "4/5",
+      "keywords": [
+        "Documentation",
+        "Mediawiki & Wiki.js",
+        "Confluence",
+        "SharePoint"
+      ]
     },
     {
-      "name": "Microsoft Threat Modeling Tool",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Microsoft Office",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "RSA Archer GRC",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "WordPress",
-      "level": "",
-      "keywords": []
+      "name": "Regulatory Compliance",
+      "level": "4/5",
+      "keywords": [
+        "Gramm-Leach-Bliley Act (GLBA)",
+        "NIST CST, 800-53, -63, etc.",
+        "PCI-DSS"
+      ]
     },
     {
       "name": "Mergers & Acquisitions (M&A)",
-      "level": "",
+      "level": "3/5",
       "keywords": []
     },
     {
-      "name": "IT Operations",
-      "level": "",
-      "keywords": []
+      "name": "Software",
+      "level": "4/5",
+      "keywords": [
+        "RSA Archer GRC",
+        "ServiceNow",
+        "MS Office, Visio, Project"
+      ]
     },
     {
-      "name": "Slack",
-      "level": "",
-      "keywords": []
+      "name": "Messaging Administration",
+      "level": "4/5",
+      "keywords": [
+        "MS Teams",
+        "Discord",
+        "Teamspeak 3",
+        "Slack"
+      ]
     },
     {
-      "name": "2nd Line Risk Management ",
-      "level": "",
-      "keywords": []
+      "name": "Soft Skills",
+      "level": "5/5",
+      "keywords": [
+        "Team first mentality",
+        "Embraces complexity",
+        "Clear communication"
+      ]
     },
-    {
-      "name": "Security Awareness",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Social Media",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Computer Hardware",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Information Security",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Technical Writing",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Integration",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Defining Requirements",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Program Management",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Knowledge Acquisition",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Leadership",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Windows Server",
-      "level": "",
-      "keywords": []
-    }
   ],
   "languages": [
     {
@@ -382,7 +230,13 @@
       "fluency": "Native Speaker"
     }
   ],
-  "interests": [],
+  "interests": [
+    "name": "Wildlife",
+    "keywords": [
+      "Otters",
+      "Unicorns"
+    ]
+  ],
   "references": [],
   "projects": [],
   "meta": {
