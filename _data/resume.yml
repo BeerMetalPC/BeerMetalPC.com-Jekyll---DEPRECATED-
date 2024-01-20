@@ -6,11 +6,10 @@ basics:
   label: "Business Information Security Officer"
   picture: "/assets/img/logo-256.png"
   email: "resume@FrankHelm.com"
-  # phone: ""
+  phone: ""
   website: "https://www.FrankHelm.com/"
   summary: >
     Frank is a security and technology GRC professional with extensive experience in risk and exception management, threat modeling, M&A activities, 2nd line of defense effective challenge, and security governance. Frank presently serves as a Business Information Security Officer (BISO) aligned at BMO Financial Group where he bridges the Cyber Security organization with Operations teams and executives. 
-    
     Frank hails from Camp Hill, Pennsylvania, and has put down roots in Chicago, Illinois. Away from the desk, Frank formerly operated an online video game community of >1000 users and presently helps organize a bi-weekly running club. He's a mediocre runner, player of both video and tabletop games, a fan of Steelers, Arsenal, and Borussia Dortmund, and is trying to instill the hacker mindset in two tiny humans. 
   location:
     address: ""
