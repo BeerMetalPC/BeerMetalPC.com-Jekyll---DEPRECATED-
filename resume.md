@@ -8,19 +8,18 @@ description: >
 hide_description: true
 left_column:
   - work
-  - volunteer
   - education
+  - certificates
   - awards
+  - volunteer
 #  - publications
 #  - references
 right_column:
   - languages
-  - education
-  - certifications
   - skills
   - interests
 no_language_icons: true
-no_skill_icons: false
+no_skill_icons: true
 buttons:
   print: false
   pdf: /assets/Resume.pdf

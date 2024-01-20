@@ -29,7 +29,7 @@
   },
   "work": [
     {
-      "name": "BMO",
+      "name": "BMO Financial Group",
       "position": "Business Information Security Officer",
       "startDate": "2021-11-01",
       "endDate": "",
@@ -95,7 +95,7 @@
       "url": "https://www.blueteamcon.com/"
     },
     {
-      "organization": "COMPUTER MINISTRY INC",
+      "organization": "Computer Ministry Inc",
       "position": "Volunteer",
       "startDate": "2008-06-30",
       "endDate": "2012-12-31",
@@ -107,24 +107,25 @@
   "education": [
     {
       "institution": "Harrisburg University of Science and Technology",
+      "url": "https://www.harrisburgu.edu/",
       "area": "Computer Science",
       "studyType": "Bachelor of Science",
       "startDate": "2013-01-01",
       "endDate": "2015-04-30",
-      "score": "3.62",
+      "score": "3.6",
       "courses": []
     },
     {
       "institution": "East Stroudsburg University of Pennsylvania",
+      "url": "https://www.esu.edu/"
       "area": "Computer Science",
-      "studyType": "",
+      "studyType": "Undergraduate Studies",
       "startDate": "2010-08-01",
       "endDate": "2012-12-31",
       "score": " 3.0",
       "courses": []
     }
   ],
-  "awards": [],
   "certificates": [
     {
       "name": "Certified Information Systems Auditor (CISA)",
@@ -155,11 +156,19 @@
       "url": "https://www.certmetrics.com/comptia/public/verification.aspx?code=YD0NWHJJ9P4QCD86"
     }
   ],
+  "awards": [
+    {
+      "name": "Being BMO 2019",
+      "date": "2019-12-01",
+      "awarder": "BMO Financial Group",
+      "summary": "..."
+    }
+  ],
   "publications": [],
   "skills": [
     {
       "name": "Risk Management",
-      "level": "5/5",
+      "level": "",
       "keywords": [
         "1A LOD",
         "1B LOD",
@@ -170,7 +179,7 @@
     },
     {
       "name": "Cyber Security",
-      "level": "4/5",
+      "level": "",
       "keywords": [
         "Awareness",
         "GRC",
@@ -180,7 +189,7 @@
     },
     {
       "name": "Knowledge Management",
-      "level": "4/5",
+      "level": "",
       "keywords": [
         "Documentation",
         "Confluence",
@@ -191,16 +200,16 @@
     },
     {
       "name": "Regulatory Compliance",
-      "level": "4/5",
+      "level": "",
       "keywords": [
         "Gramm-Leach-Bliley Act (GLBA)",
-        "NIST CST, 800-53, -63, etc.",
+        "NIST CSF, 800-53, 800-63",
         "PCI-DSS"
       ]
     },
     {
       "name": "Mergers & Acquisitions (M&A)",
-      "level": "4/5",
+      "level": "",
       "keywords": [
         "Due Diligence",
         "Integration",
@@ -209,21 +218,11 @@
     },
     {
       "name": "Threat Modeling",
-      "level": "4/5",
+      "level": "",
       "keywords": [
         "STRIDE",
         "DREAD",
         "Microsoft Threat Modeling Tool"
-      ]
-    },
-    {
-      "name": "Operations",
-      "level": "3/5",
-      "keywords": [
-        "Personal and Business Banking",
-        "Fraud Management",
-        "IT Operations",
-        "Capital Markets"
       ]
     },
     {
