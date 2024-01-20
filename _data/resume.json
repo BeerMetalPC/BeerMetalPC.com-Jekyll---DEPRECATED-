@@ -29,7 +29,7 @@
   },
   "work": [
     {
-      "name": "BMO Financial Group",
+      "name": "BMO",
       "position": "Business Information Security Officer",
       "startDate": "2021-11-01",
       "endDate": "",
@@ -159,26 +159,33 @@
     {
       "name": "Risk Management",
       "level": "5/5",
-      "keywords": []
-    },
-    {
-      "name": "Threat Modeling",
-      "level": "3/5",
-      "keywords": []
+      "keywords": [
+        "1A LOD",
+        "1B LOD",
+        "2 LOD",
+        "Technology",
+        "ONFR"
+      ]
     },
     {
       "name": "Cyber Security",
       "level": "4/5",
-      "keywords": []
+      "keywords": [
+        "Awareness",
+        "GRC",
+        "Exception Management",
+        "Consulting"
+      ]
     },
     {
       "name": "Knowledge Management",
       "level": "4/5",
       "keywords": [
         "Documentation",
-        "Mediawiki & Wiki.js",
         "Confluence",
-        "SharePoint"
+        "SharePoint",
+        "Mediawiki",
+        "Wiki.js"
       ]
     },
     {
@@ -192,23 +199,48 @@
     },
     {
       "name": "Mergers & Acquisitions (M&A)",
+      "level": "4/5",
+      "keywords": [
+        "Due Diligence",
+        "Integration",
+        "Divestiture"
+      ]
+    },
+    {
+      "name": "Threat Modeling",
+      "level": "4/5",
+      "keywords": [
+        "STRIDE",
+        "DREAD",
+        "Microsoft Threat Modeling Tool"
+      ]
+    },
+    {
+      "name": "Operations",
       "level": "3/5",
-      "keywords": []
+      "keywords": [
+        "Personal and Business Banking",
+        "Fraud Management",
+        "IT Operations",
+        "Capital Markets"
+      ]
     },
     {
       "name": "Software",
-      "level": "4/5",
+      "level": "",
       "keywords": [
         "RSA Archer GRC",
         "ServiceNow",
+        "SD Elements",
         "MS Office, Visio, Project"
       ]
     },
     {
       "name": "Messaging Administration",
-      "level": "4/5",
+      "level": "",
       "keywords": [
         "MS Teams",
+        "Zoho Mail",
         "Discord",
         "Teamspeak 3",
         "Slack"
@@ -216,7 +248,7 @@
     },
     {
       "name": "Soft Skills",
-      "level": "5/5",
+      "level": "",
       "keywords": [
         "Team first mentality",
         "Embraces complexity",
@@ -228,14 +260,20 @@
     {
       "language": "English",
       "fluency": "Native Speaker"
+    },
+    {
+      "language": "Markdown",
+      "fluency": "Would speak it if possible"
     }
   ],
   "interests": [
+    {
     "name": "Wildlife",
     "keywords": [
       "Otters",
       "Unicorns"
-    ]
+      ]
+    }
   ],
   "references": [],
   "projects": [],
