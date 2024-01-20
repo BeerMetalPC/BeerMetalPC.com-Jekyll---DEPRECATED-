@@ -1,0 +1,392 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Frank Helm",
+    "label": "Information Security Officer",
+    "image": "/assets/img/logo-256.png",
+    "email": "F@FrankHelm.com",
+    "phone": "",
+    "url": "https://www.FrankHelm.com/",
+    "summary": "Frank is a security and technology GRC professional with extensive experience in risk and exception management, threat modeling, M&A activities, 2nd line of defense effective challenge, and security governance. Frank presently serves as a Business Information Security Officer (BISO) aligned at BMO Financial Group where he bridges the Cyber Security organization with Operations teams and executives. Frank hails from Camp Hill, Pennsylvania, and has put down roots in Chicago, Illinois. Away from the desk, Frank formerly operated an online video game community of >1000 users and presently helps organize a bi-weekly running club. He's a mediocre runner, player of both video and tabletop games, a fan of Steelers, Arsenal, and Borussia Dortmund, and is trying to instill the hacker mindset in two tiny humans.",
+    "location": {
+      "address": "",
+      "city": "Chicago",
+      "countryCode": "US",
+      "region": "Illinois"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "frankhelm",
+        "url": "https://www.linkedin.com/in/frankhelm/"
+      },
+      {
+        "network": "Credly",
+        "username": "BeerMetalPC",
+        "url": "https://www.credly.com/users/beermetalpc/badges"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "BMO Financial Group",
+      "position": "Business Information Security Officer",
+      "startDate": "2021-11-01",
+      "endDate": "",
+      "highlights": [],
+      "url": "https://www.bmo.com/",
+      "location": "Chicago, Illinois, United States"
+    },
+    {
+      "name": "BMO Financial Group",
+      "position": "Information Security Specialist",
+      "startDate": "2020-01-31",
+      "endDate": "2021-11-01",
+      "highlights": [],
+      "url": "https://www.bmo.com/",
+      "location": "Chicago, Illinois, United States"
+    },
+    {
+      "name": "BMO Financial Group",
+      "position": "Senior Information Security Analyst",
+      "startDate": "2017-04-30",
+      "endDate": "2020-01-31",
+      "highlights": [],
+      "url": "https://www.bmo.com/",
+      "location": "Chicago, Illinois, United States"
+    },
+    {
+      "name": "BMO Harris Bank",
+      "position": "Information Security Analyst",
+      "startDate": "2015-08-31",
+      "endDate": "2017-04-30",
+      "highlights": [],
+      "url": "https://www.bmo.com/",
+      "location": "Chicago, Illinois, United States"
+    },
+    {
+      "name": "SolomonEdwards",
+      "position": "Information Security Consultant",
+      "startDate": "2014-12-29",
+      "endDate": "2015-04-30",
+      "highlights": [],
+      "url": "https://www.solomonedwards.com/",
+      "location": "Chicago, Illinois, United States"
+    },
+    {
+      "name": "Alliance Computers",
+      "position": "Repair Technician",
+      "startDate": "2014-05-31",
+      "endDate": "2014-08-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/alliance-computers/",
+      "location": "Harrisburg, Pennsylvania, United States"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Blue Team Con",
+      "position": "Safety Volunteer",
+      "startDate": "2022-08-26",
+      "endDate": "2022-08-31",
+      "summary": "Safety and teardown volunteer at Blue Team Con 2022.",
+      "highlights": [],
+      "url": "https://www.blueteamcon.com/"
+    },
+    {
+      "organization": "COMPUTER MINISTRY INC",
+      "position": "Student Volunteer",
+      "startDate": "2009-06-30",
+      "endDate": "2014-09-30",
+      "summary": "Organization which collects and recycles computers and other electronics. Devices that can still be used are securely wiped of donor's data, refurbished, and distributed to non-profits in need of computers, both domestic and overseas. Worked as a volunteer with computer ministry throughout high school, and as available during undergrad.",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/60089454"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Harrisburg University of Science and Technology",
+      "area": "Computer and Information Security",
+      "studyType": "Bachelor of Science - BS",
+      "startDate": "2013-12-31",
+      "endDate": "2015-12-31",
+      "score": "3.62 GPA",
+      "courses": []
+    },
+    {
+      "institution": "East Stroudsburg University of Pennsylvania",
+      "area": "Computer Science",
+      "studyType": "",
+      "startDate": "2010-12-31",
+      "endDate": "2012-12-31",
+      "score": " 3.0 GPA at transfer",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Information Systems Auditor (CISA)",
+      "issuer": "ISACA",
+      "endDate": "2024-12-31",
+      "startDate": "2021-11-30",
+      "url": "https://www.isaca.org/credentialing/verify-a-certification"
+    },
+    {
+      "name": "Certified In Risk and Information Systems Control (CRISC)",
+      "issuer": "ISACA",
+      "startDate": "2022-08-31",
+      "url": "https://www.isaca.org/credentialing/verify-a-certification"
+    },
+    {
+      "name": "Certified Cloud Security Professional (CCSP)",
+      "issuer": "(ISC)²",
+      "endDate": "2023-02-28",
+      "startDate": "2020-02-28",
+      "url": "https://www.isc2.org/MemberVerification"
+    },
+    {
+      "name": "CompTIA Security+ ce",
+      "issuer": "CompTIA",
+      "endDate": "2017-11-30",
+      "startDate": "2014-11-30",
+      "url": "https://www.certmetrics.com/comptia/public/verification.aspx?code=YD0NWHJJ9P4QCD86"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Problem Solving",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Emerging Technologies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Technology Risk",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "IT Audit",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cybersecurity",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Knowledge Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Customer Service",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Discord",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Digital Forensics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "IT Controls",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Risk Assessment",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Process Improvement",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ServiceNow",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Technical Support",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Public Speaking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Information Assurance",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Regulatory Compliance",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "IT Risk Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Installation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cloud Security",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Troubleshooting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Wiki Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Threat Modeling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Operational Risk Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Threat Modeling Tool",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "RSA Archer GRC",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "WordPress",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mergers & Acquisitions (M&A)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "IT Operations",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Slack",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "2nd Line Risk Management ",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Security Awareness",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Social Media",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer Hardware",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Information Security",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Technical Writing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Integration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Defining Requirements",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Program Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Knowledge Acquisition",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Windows Server",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
