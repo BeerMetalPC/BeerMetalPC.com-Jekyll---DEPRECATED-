@@ -10,7 +10,7 @@
     "summary": "Frank is a cyber security professional with extensive experience in risk and exception management, threat modeling, M&A activities, and governance. Frank presently serves as a Business Information Security Officer (BISO) aligned at BMO Financial Group where he is the primary point of contact for BMO's Operations teams. Frank hails from Camp Hill, Pennsylvania, and has put down roots in Chicago, Illinois. Away from the desk, Frank formerly operated an online video game community of >1000 users and presently helps organize a bi-weekly running club. He's a mediocre runner, player of both video and tabletop games, a fan of Steelers, Arsenal, and Borussia Dortmund, and is trying to instill the hacker mindset in two tiny humans.",
     "location": {
       "address": "",
-      "postalCode": "IL 60606",
+      "postalCode": "",
       "city": "Chicago",
       "countryCode": "US",
       "region": "Illinois"
@@ -32,93 +32,100 @@
     {
       "company": "BMO Finanical Group",
       "position": "Business Information Security Officer",
+      "website": "https://www.bmo.com/",
       "startDate": "2021-11-01",
       "endDate": "",
-      "highlights": [],
-      "summary": "This is a test"
-    },
-    {
-      "company": "BMO Financial Group",
-      "position": "Information Security Specialist",
-      "url": "https://www.bmo.com/",
-      "startDate": "2020-01-31",
-      "endDate": "2021-11-01",
-      "highlights": []
-    },
-    {
-      "company": "BMO Financial Group",
-      "position": "Senior Information Security Analyst",
-      "url": "https://www.bmo.com/",
-      "startDate": "2017-04-30",
-      "endDate": "2020-01-31",
+      "summary": "BISO supporting BMO's Technology & Operations group.",
       "highlights": [
-        "Awarded 'Being BMO 2019'"
+        "Supported many Cyber-led initiatives, with emphasis on identifying business impacts unforeseen by leading area and providing actionable feedback.",
+        "Provided metrics and reporting to multiple lines of business, including phishing test results and pending access certifications."      ]
+    },
+    {
+      "company": "BMO Finanical Group",
+      "position": "Information Security Specialist",
+      "website": "https://www.bmo.com/",
+      "startDate": "2020-01-01",
+      "endDate": "2021-11-01",
+      "highlights": [
+        "Cyber M&A delivery lead for acquisition of Clearpool Group Inc.",
+        "Led the bank's first STRIDE threat modeling engagement in support of a major cloud migration project."
       ]
     },
     {
-      "company": "BMO Financial Group",
+      "company": "BMO Finanical Group",
+      "position": "Senior Security Analyst",
+      "website": "https://www.bmo.com/",
+      "startDate": "2017-04-20",
+      "endDate": "2020-01-01",
+      "highlights": [
+        "Cyber M&A delivery delegate for acquisition of KGS-Alpha Capital Markets.",
+        "Supported Application Governance testing via process enhancements, UAT, end-user education and support, and data imports.",
+        "Received 'Being BMO' 2019 award."
+      ]
+    },
+    {
+      "company": "BMO Harris Bank",
       "position": "Information Security Analyst",
-      "url": "https://www.bmo.com/",
-      "startDate": "2015-08-31",
-      "endDate": "2017-04-30",
-      "highlights": []
+      "website": "https://www.bmo.com/",
+      "startDate": "2015-08-01",
+      "endDate": "2017-04-20",
+      "highlights": [
+        "Provided recommendations for 'PAD' process to avoid regulatory issues that went forward to full implementation.",
+        "Delegate to Technology Risk Officers, reviewing tech risk in all projects >$1MM in spend in P&BB, Wealth, and Capital Markets.",
+        "Fulfilled multiple compliance functions, including FFIEC controls assessment of web-facing applications, and GLBA audit of high risk LOBs."
+      ]
     },
     {
       "company": "SolomonEdwards",
       "position": "Information Security Consultant",
-      "url": "https://www.solomonedwards.com/",
+      "website": "https://www.solomonedwards.com/",
       "startDate": "2014-12-29",
       "endDate": "2015-04-30",
-      "highlights": []
+      "highlights": [
+        "Developed penetration test documentation and sales material based on NIST guidance and open-source Penetration Testing Execution Standard."
+      ]
     },
     {
       "name": "Alliance Computers",
-      "position": "Repair Technician",
-      "url": "https://www.linkedin.com/company/alliance-computers/",
+      "position": "Technician",
+      "website": "https://www.linkedin.com/company/alliance-computers/",
       "startDate": "2014-05-31",
       "endDate": "2014-08-31",
-      "highlights": []
+      "summary": "Retail PC sales, customer support, and repair.",
+      "highlights": [
+        "Role fulfilled summer internship requirement at Harrisburg University."
+      ]
     }
   ],
   "volunteer": [
     {
       "organization": "Blue Team Con",
       "position": "Safety Team",
-      "url": "https://www.blueteamcon.com/",
+      "website": "https://www.blueteamcon.com/",
       "startDate": "2022-08-26",
       "endDate": "2022-08-31",
-      "highlights": [],
-      "summary": "Safety and teardown volunteer at Blue Team Con 2022."
+      "summary": "Safety and teardown volunteer at Blue Team Con 2022.",
+      "highlights": []
     },
     {
       "organization": "Computer Ministry Inc",
       "position": "Volunteer",
-      "url": "https://main.compministry.org/",
+      "website": "https://main.compministry.org/",
       "startDate": "2008-06-30",
       "endDate": "2012-12-31",
-      "highlights": [],
-      "summary": "Organization which collects and recycles computers and other electronics. Devices that are still usable are securely wiped of donor's data, refurbished, and distributed to other non-profits. Worked as a volunteer with computer ministry throughout high school, and as available during undergrad."
+      "summary": "Organization which collects and recycles computers and other electronics. Devices that are still usable are securely wiped of donor's data, refurbished, and distributed to other non-profits. Worked as a volunteer with computer ministry throughout high school, and as available during undergrad.",
+      "highlights": []
     }
   ],
   "education": [
     {
       "institution": "Harrisburg University of Science and Technology",
-      "url": "https://www.harrisburgu.edu/",
+      "website": "https://www.harrisburgu.edu/",
       "area": "Computer Science",
       "studyType": "Bachelor of Science",
       "startDate": "2013-01-01",
       "endDate": "2015-04-30",
-      "score": "3.6",
-      "courses": []
-    },
-    {
-      "institution": "East Stroudsburg University of Pennsylvania",
-      "url": "https://www.esu.edu/",
-      "area": "Computer Science",
-      "studyType": "Undergraduate",
-      "startDate": "2010-08-01",
-      "endDate": "2012-12-31",
-      "score": " 3.0",
+      "gpa": "3.6",
       "courses": []
     }
   ],
@@ -154,14 +161,15 @@
         "2 LOD",
         "ONFR",
         "Cyber risk",
-        "Technology risk"
+        "Technology risk",
+        "Emerging Technologies"
       ]
     },
     {
       "name": "Cyber Security",
       "level": "",
       "keywords": [
-        "GRC",
+        "Cyber GRC",
         "Exception Management",
         "Project Consulting",
         "Data Loss Prevention",
@@ -176,7 +184,8 @@
         "Confluence",
         "SharePoint",
         "Mediawiki",
-        "Wiki.js"
+        "Wiki.js",
+        "Maps of Content"
       ]
     },
     {
@@ -184,8 +193,11 @@
       "level": "",
       "keywords": [
         "Gramm-Leach-Bliley Act (GLBA)",
-        "NIST CSF, 800-53, 800-63",
-        "PCI-DSS"
+        "NIST CSF",
+        "NIST 800-53",
+        "NIST 800-63",
+        "PCI-DSS",
+        "ISO 27001"
       ]
     },
     {
@@ -245,6 +257,22 @@
   ],
   "interests": [
     {
+      "name": "Running",
+      "keywords": [
+        "5k",
+        "10k"
+        ]
+    },
+    {
+      "name": "Food and Drink",
+      "keywords": [
+        "Beer",
+        "Japanese Whisky",
+        "Scotch",
+        "Late Night Shawarma"
+        ]
+    },
+    {
     "name": "Tabletop Games",
     "keywords": [
       "Resource Management",
@@ -255,9 +283,10 @@
     {
     "name": "Video Games",
     "keywords": [
-      "Boomer Shooters",
-      "Turn Based Strategy",
-      "(J)RPGs"
+      "Battletech",
+      "DOOM",
+      "Final Fantasy",
+      "Warhammer 40000"
       ]
     },
     {
