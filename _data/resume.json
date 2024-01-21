@@ -7,7 +7,7 @@
     "email": "CV@FrankHelm.com",
     "phone": "",
     "website": "https://www.FrankHelm.com/",
-    "summary": "Frank is a cyber security professional with extensive experience in risk and exception management, threat modeling, M&A activities, and governance. Frank presently serves as a Business Information Security Officer (BISO) aligned at BMO Financial Group where he is the primary point of contact for BMO's Operations teams. Frank hails from Camp Hill, Pennsylvania, and has put down roots in Chicago, Illinois. Away from the desk, Frank formerly operated an online video game community of >1000 users and presently helps organize a bi-weekly running club. He's a mediocre runner, player of both video and tabletop games, a fan of Steelers, Arsenal, and Borussia Dortmund, and is trying to instill the hacker mindset in two tiny humans.",
+    "summary": "Frank is a cyber security professional with extensive experience in risk and exception management, threat modeling, and M&A activities. Frank presently serves as a Business Information Security Officer (BISO) at BMO Financial Group where he is the primary point of contact for BMO's Operations teams. Frank hails from Camp Hill, Pennsylvania, aand now lives in Chicago, Illinois. Away from the desk, Frank formerly operated an online video game community of >1000 users and presently helps organize a bi-weekly running club. He also enjoys both video and tabletop games, and is trying to instill the hacker mindset in two tiny humans.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -82,17 +82,19 @@
       "startDate": "2014-12-29",
       "endDate": "2015-04-30",
       "highlights": [
-        "Developed penetration test documentation and sales material based on NIST guidance and open-source Penetration Testing Execution Standard."
+        "Developed penetration test documentation and sales material based on NIST guidance and open-source Penetration Testing Execution Standard.",
+        "Attended employer-sponsored training on X-Ways Forensics Toolkit (v18.1)."
       ]
     },
     {
-      "name": "Alliance Computers",
+      "company": "Alliance Computers",
       "position": "Technician",
-      "website": "https://www.linkedin.com/company/alliance-computers/",
+      "website": "https://alliancecomp.com/",
       "startDate": "2014-05-31",
       "endDate": "2014-08-31",
       "summary": "Retail PC sales, customer support, and repair.",
       "highlights": [
+        "Honed problem-solving and customer-facing communication skills.",
         "Role fulfilled summer internship requirement at Harrisburg University."
       ]
     }
@@ -104,8 +106,11 @@
       "website": "https://www.blueteamcon.com/",
       "startDate": "2022-08-26",
       "endDate": "2022-08-31",
-      "summary": "Safety and teardown volunteer at Blue Team Con 2022.",
-      "highlights": []
+      "summary": "Safety team volunteer at Blue Team Con, responsible for safety of the attendees and adherence to the conference code of conduct.",
+      "highlights": [
+        "Worked multiple safety shifts at Blue Team Con 2022.",
+        "Also assisted with teardown, and storage/upkeep between 2022-2023 events."
+      ]
     },
     {
       "organization": "Computer Ministry Inc",
@@ -113,14 +118,16 @@
       "website": "https://main.compministry.org/",
       "startDate": "2008-06-30",
       "endDate": "2012-12-31",
-      "summary": "Organization which collects and recycles computers and other electronics. Devices that are still usable are securely wiped of donor's data, refurbished, and distributed to other non-profits. Worked as a volunteer with computer ministry throughout high school, and as available during undergrad.",
-      "highlights": []
+      "summary": "Organization which collects and recycles computers and other electronics. Devices that are still usable are securely wiped of donor's data, refurbished, and distributed to other non-profits.",
+      "highlights": [
+        "Worked with Computer Ministry as a volunteer throughout high school and as available during undergrad.",
+        "Earned valuable hands on experience with triage and refurbishment across a wide spectrum of devices, and recyling including device sanitization and/or destruction."
+      ]
     }
   ],
   "education": [
     {
       "institution": "Harrisburg University of Science and Technology",
-      "website": "https://www.harrisburgu.edu/",
       "area": "Computer Science",
       "studyType": "Bachelor of Science",
       "startDate": "2013-01-01",
@@ -260,7 +267,8 @@
       "name": "Running",
       "keywords": [
         "5k",
-        "10k"
+        "10k",
+        "Meetup Organizer"
         ]
     },
     {
@@ -269,6 +277,7 @@
         "Beer",
         "Japanese Whisky",
         "Scotch",
+        "Sous Vide",
         "Late Night Shawarma"
         ]
     },
