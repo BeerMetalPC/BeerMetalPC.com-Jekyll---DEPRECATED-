@@ -10,7 +10,6 @@ left_column:
   - education
   - work
   - volunteer
-  - interests
 #  - publications
 #  - references
 right_column:
@@ -18,6 +17,7 @@ right_column:
   - skills
   - awards
   - languages
+  - interests
 no_language_icons: true
 no_skill_icons: true
 buttons:
