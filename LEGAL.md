@@ -9,7 +9,8 @@ sitemap: false
 {:toc .large-only}
 
 **Effective Date:** March 11, 2022
-**Last Revised:** January 21, 2024: Misc. typo fixes. Refreshed links in the Cloudflare section, sadly nothing has changed there. Added an embeds subheading under third parties. Add a statement to first party clarifying there is no advertising served on this site. Added Threads to new embed section.
+
+**Last Revised:** January 21, 2024: Misc. typo fixes. Refreshed links in the Cloudflare section, sadly nothing has changed there. Added an embeds subheading under third parties. Add a statement to first-party clarifying there is no advertising served on this site. Added Threads to new embed section.
 
 This is a personal website and will be kept free of complicated rules and legalese if/where possible. Anything on this page applies only to websites. Questions or issues concerning this site, its policies, and its upkeep may be addressed by email to [email@BeerMetalPC.com](mailto:email@BeerMetalPC.com).
 
