@@ -9,14 +9,14 @@ hide_description: true
 left_column:
   - education
   - work
-  - awards
   - volunteer
   - interests
 #  - publications
 #  - references
 right_column:
-  - certificates
+#  - certificates
   - skills
+  - awards
   - languages
 no_language_icons: true
 no_skill_icons: true
