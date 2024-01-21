@@ -20,6 +20,11 @@
         "network": "LinkedIn",
         "username": "FrankHelm",
         "url": "https://www.linkedin.com/in/frankhelm/"
+      },      
+      {
+        "network": "Credly",
+        "username": "BeerMetalPC",
+        "url": "https://www.credly.com/users/beermetalpc/badges"
       },
       {
         "network": "Threads",
