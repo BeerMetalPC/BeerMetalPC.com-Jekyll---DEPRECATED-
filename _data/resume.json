@@ -7,7 +7,7 @@
     "email": "CV@FrankHelm.com",
     "phone": "",
     "website": "https://www.FrankHelm.com/",
-    "summary": "Frank is a cyber security professional with extensive experience in risk and exception management, threat modeling, and M&A activities. Frank presently serves as a Business Information Security Officer (BISO) at BMO Financial Group where he is the primary point of contact for BMO's Operations teams. Frank hails from Camp Hill, Pennsylvania, aand now lives in Chicago, Illinois. Away from the desk, Frank formerly operated an online video game community of >1000 users and presently helps organize a bi-weekly running club. He also enjoys both video and tabletop games, and is trying to instill the hacker mindset in two tiny humans.",
+    "summary": "Frank is a cyber security professional with extensive experience in risk and exception management, threat modeling, and M&A activities. Frank presently serves as a Business Information Security Officer (BISO) at BMO Financial Group where he is the primary Cyber SME for Operations across the bank. Frank hails from Camp Hill, Pennsylvania, aand now lives in Chicago, Illinois. Away from the desk, Frank formerly operated an online video game community of >1000 users and presently helps organize a bi-weekly running club. He also enjoys both video and tabletop games, and is trying to instill the hacker mindset in two tiny humans.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -38,7 +38,8 @@
       "summary": "BISO supporting BMO's Technology & Operations group.",
       "highlights": [
         "Supported many Cyber-led initiatives, with emphasis on identifying business impacts unforeseen by leading area and providing actionable feedback.",
-        "Provided metrics and reporting to multiple lines of business, including phishing test results and pending access certifications."      ]
+        "Provided metrics and reporting to multiple lines of business, including phishing test results and pending access certifications."     
+       ]
     },
     {
       "company": "BMO Finanical Group",
@@ -46,7 +47,7 @@
       "website": "https://www.bmo.com/",
       "startDate": "2020-01-01",
       "endDate": "2021-11-01",
-      "summary": "Cyber M&A Lead, and 'Technical ISO'",
+      "summary": "Cyber M&A Lead and 'Technical ISO.'",
       "highlights": [
         "Cyber M&A delivery lead for acquisition of Clearpool Group Inc. and multiple due diligence efforts.",
         "Led the bank's first STRIDE threat modeling engagement in support of a major cloud migration project."
@@ -58,11 +59,12 @@
       "website": "https://www.bmo.com/",
       "startDate": "2017-04-20",
       "endDate": "2020-01-01",
-      "summary": "Delegate Cyber M&A Lead, and Senior GRC Analyst",
+      "summary": "Delegate Cyber M&A Lead and Governance Analyst.",
       "highlights": [
         "Cyber M&A delivery delegate for acquisition of KGS-Alpha Capital Markets.",
         "Supported application governance controls testing via process enhancements, UAT, end-user education and support, and RSA Archer data imports.",
-        "Received 'Being BMO' 2019 award."
+        "Continued to perform prior role GLBA audits and misc. GRC taskings in addition to this new remit.",
+        "Recipient of 'Being BMO' award for fiscal year 2019."
       ]
     },
     {
@@ -123,7 +125,7 @@
       "summary": "Organization which collects and recycles computers and other electronics. Devices that are still usable are securely wiped of donor's data, refurbished, and distributed to other non-profits.",
       "highlights": [
         "Worked with Computer Ministry as a volunteer throughout high school and as available during undergrad.",
-        "Earned valuable hands on experience with triage and refurbishment across a wide spectrum of devices, and recyling including device sanitization and/or destruction."
+        "Excellent way for someone getting into IT to see the full spectrum of consumer and small business devices, fast." 
       ]
     }
   ],
@@ -169,8 +171,6 @@
         "1B LOD",
         "2 LOD",
         "ONFR",
-        "Cyber risk",
-        "Technology risk",
         "Emerging Technologies"
       ]
     },
@@ -266,6 +266,14 @@
   ],
   "interests": [
     {
+      "name": "Sports",
+      "keywords": [
+        "Steelers 🏈🇺🇸",
+        "Arsenal ⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "Borussia Dortmund ⚽️🇩🇪"
+        ]
+    },
+    {
       "name": "Running",
       "keywords": [
         "5k",
@@ -298,14 +306,6 @@
       "DOOM",
       "Final Fantasy",
       "Warhammer 40000"
-      ]
-    },
-    {
-    "name": "Sports",
-    "keywords": [
-      "Steelers 🏈🇺🇸",
-      "Arsenal ⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "Borussia Dortmund ⚽️🇩🇪"
       ]
     }
   ],
