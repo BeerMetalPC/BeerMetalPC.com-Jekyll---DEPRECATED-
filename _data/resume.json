@@ -143,6 +143,15 @@
       "endDate": "2015-04-30",
       "gpa": "3.6",
       "courses": []
+    },
+    {
+      "institution": "East Stroudsburg University of Pennsylvania",
+      "area": "Computer Science",
+      "studyType": "Undergraduate Studies",
+      "startDate": "2010-08-01",
+      "endDate": "2012-12-31",
+      "gpa": "3.0",
+      "courses": []
     }
   ],
   "certificates": [
