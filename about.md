@@ -9,7 +9,7 @@ sitemap: true
 
 Hey there, I'm Frank (he/him/they).
 
-At the desk: I'm a Business Information Security Officer, or "BISO", serving as a bridge between our security and operations organizations. My experience has largely been on the GRC side of cybersecurity, with detours through M&A and threat modeling. I've found over the years that I'm not great at programming, and consequently not at red teaming, but I grok and communicate the technical, business, risk facets such that I fit well in "bridge" roles between organizations. 
+At the desk: I'm a Business Information Security Officer, or "BISO", serving as a bridge between our security and operations organizations. My experience has largely been on the GRC side of cybersecurity, with detours through M&A and threat modeling. I've found over the years that I'm not great at programming, and consequently not at red teaming, but I grok and communicate the technical, business, and risk facets such that I fit well in "bridge" roles between organizations. 
 
 Away from the desk: 
 - I'm trying to foster the hacker mindset in two tiny humans. 
@@ -25,9 +25,9 @@ If you're going to consume anything from this site, I recommend that you kick yo
 
 ## What's the name mean?
 
-BeerMetalPC was a half-asleep showerthought. You've heard of bare metal computers? What about beer metal? 🍺🤘💻.
+BeerMetalPC was a half-asleep showerthought. Have you heard of bare metal computers? What about beer metal? 🍺🤘💻.
 I’ve used other handles for online games over the years, but as I’ve started doing more public and professional interaction, it became clear I needed one more that was at arms length from my gaming activity. 
-Is my personal branding a mess as a result? Yes. 😆
+Is my personal branding a mess? Yes. 😆
 
 ## Upcoming Conferences
 I try to attend at least one security conference per year. You can see which ones I'll be at, and whether I'm doing anything more than just attending, (volunteering, speaking, etc.) below. Feel free to say hi if we cross paths!
