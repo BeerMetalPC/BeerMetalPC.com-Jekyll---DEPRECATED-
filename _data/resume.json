@@ -27,9 +27,9 @@
         "url": "https://www.credly.com/users/beermetalpc/badges"
       },
       {
-        "network": "Threads",
-        "username": "BeerMetalPC",
-        "url": "https://threads.net/@beermetalpc"
+        "network": "Mastodon",
+        "username": "@BeerMetalPC@infosec.exchange",
+        "url": "https://infosec.exchange/@BeerMetalPC"
       }
     ]
   },
