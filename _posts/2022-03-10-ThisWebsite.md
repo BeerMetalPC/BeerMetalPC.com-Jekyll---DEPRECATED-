@@ -23,6 +23,14 @@ sitemap: false
 * this unordered seed list will be replaced by the toc
 {:toc}
 
+## Updates as of 2024-03-05
+
+Revisiting this post as there've been some significant changes in the backend for this site. I'll provide an update via another post and provide a link here when ready. Here's a quick summary in the meantime.
+
+- Friendship ended with Netlify, now Github Pages is my best friend. Turns out Netlify doesn't cap their free tier and [sends you a bill](https://www.reddit.com/r/webdev/comments/1b14bty/netlify_just_sent_me_a_104k_bill_for_a_simple/) well after you've exceeded the limits. 
+- Google has sold off their Domains registrar service to Squarespace. I've moved over to Namecheap.
+- In conjunction with the abuse/DDOS risk shown with Netlify, I've delegated the DNS records to CloudFlare under their free tier services. This is unfortunate; they do have a good product and management interface, but [I will not use their paid services](https://www.theregister.com/2022/08/31/cloudflare_kiwi_farm/) and neither should you. 
+
 ## Why did I need a site? 
 
 My need for a personal site arose out of frustration with commercial off the shelf offerings in 2022 and a desire for a personal project to obtain more happy brain chemicals. I've wanted a (semi-)professional looking site that could be associated with my public facing social media, directly host my own content without added crap to maintain like comments (ffs just [@ me on Twitter](https://twitter.com/BeerMetalPC)), and link through to my other public facing accounts. 
