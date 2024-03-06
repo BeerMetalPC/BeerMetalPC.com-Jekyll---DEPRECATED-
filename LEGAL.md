@@ -10,7 +10,7 @@ sitemap: false
 
 **Effective Date:** March 11, 2022
 
-**Last Revised:** March 5, 2024: Removed Netlify and moved to Github Pages for hosting. Moved site behind CloudFlare free tier services to mitigate DDOS and malicious metered service exploitation, and updated CloudFlare verbiage accordingly. Added further clarification to Twitter/X statements. Added third-level headers to aid in searchability and ToC navigation. Moved Goatcounter to 3rd parties. 
+**Last Revised:** March 6, 2024: Removed Netlify and moved to Github Pages for hosting. Moved site behind CloudFlare free tier services to mitigate DDOS and malicious metered service exploitation, and updated CloudFlare verbiage accordingly. Added further clarification to Twitter/X statements. Added third-level headers to aid in searchability and ToC navigation. Moved Goatcounter to 3rd parties and added a list of what information is collected on a page view event. 
 
 ---
 
@@ -54,7 +54,18 @@ Having said that, as a matter of principle I do not use CloudFlare as my domain 
 
 ### Goatcounter
 
-[GoatCounter](https://goatcounter.com/) is an [open source](https://github.com/arp242/goatcounter) service used for site analytics. You can view this site's GoatCounter dashboard [here.](https://bhksuhd32g.goatcounter.com/) What you see on this dashboard is the same thing I see. You can view GoatCounter's privacy policy [here.](https://www.goatcounter.com/help/privacy) You can disable GoatCounter by blocking **gc.zgo.at** in your adblocker or firewall.  
+[GoatCounter](https://goatcounter.com/) is an [open source](https://github.com/arp242/goatcounter) service used for site analytics. Goatcounter is configured to collect the following information, below. You can view GoatCounter's privacy policy [here.](https://www.goatcounter.com/help/privacy) 
+
+- Sessions: Track unique visitors for up to 8 hours; if you disable this then someone pressing e.g. F5 to reload the page will just show as 2 pageviews instead of 1
+- Referrer: Referer header and campaign parameters.
+- User-Agent: Browser and system name derived from the User-Agent header (the header itself is not stored).
+- Size: Screen size.
+- Country: Country name, for example Belgium, Indonesia, etc.
+- Language: Supported languages from Accept-Language.
+
+You can disable GoatCounter by blocking **gc.zgo.at** in your adblocker or firewall.  
+
+You can view this site's GoatCounter dashboard [here.](https://beermetalpc.goatcounter.com/) What you see on this dashboard is the same thing I see. 
 
 ### Embeds 
 
