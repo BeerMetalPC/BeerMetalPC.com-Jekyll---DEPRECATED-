@@ -199,10 +199,6 @@ paypal:
   name: PayPal
   icon: icon-paypal
   prepend: "https://www.paypal.me/"
-keybase:
-  name: Keybase
-  icon: icon-keybase
-  prepend: "https://keybase.io/"
 download:
   name: Download
   icon: icon-box-add
@@ -210,14 +206,13 @@ mastodon:
   name: Mastodon
   icon: icon-mastodon
   prepend: "https://infosec.exchange/"
+keyoxide:
+  name: keyoxide
+  icon: icon-checkmark
 threads:
   name: Threads
   icon: icon-threads
   prepend: "https://www.threads.net/"
-untappd:
-  name: Untappd
-  icon: icon-untappd
-  prepend: "https://untappd.com/user/"
 bluesky:
   name: Bluesky
   icon: icon-bubble
@@ -226,7 +221,3 @@ credly:
   name: Credly
   icon: icon-credly
   prepend: "https://www.credly.com/users/"
-keyoxide:
-  name: Keyoxide
-  icon: icon-keybase
-  prepend: "https://keyoxide.org/"
