@@ -227,6 +227,6 @@ credly:
    icon: icon-credly
    prepend: "https://www.credly.com/users/"
  keyoxide:
-  name: Keyoxide
-  icon: icon-keybase
-  prepend: "https://keyoxide.org/"
+   name: Keyoxide
+   icon: icon-keybase
+   prepend: "https://keyoxide.org/"
