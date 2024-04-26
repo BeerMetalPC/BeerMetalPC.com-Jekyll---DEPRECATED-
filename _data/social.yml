@@ -223,10 +223,10 @@ bluesky:
   icon: icon-bubble
   prepend: "https://bsky.app/profile/"
 credly:
-   name: Credly
-   icon: icon-credly
-   prepend: "https://www.credly.com/users/"
- keyoxide:
-   name: Keyoxide
-   icon: icon-keybase
-   prepend: "https://keyoxide.org/"
+  name: Credly
+  icon: icon-credly
+  prepend: "https://www.credly.com/users/"
+keyoxide:
+  name: Keyoxide
+  icon: icon-keybase
+  prepend: "https://keyoxide.org/"
