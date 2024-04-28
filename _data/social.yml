@@ -208,7 +208,7 @@ mastodon:
   prepend: "https://infosec.exchange/"
 keyoxide:
   name: keyoxide
-  icon: icon-keyoxide
+  icon: icon-checkmark
 threads:
   name: Threads
   icon: icon-threads
