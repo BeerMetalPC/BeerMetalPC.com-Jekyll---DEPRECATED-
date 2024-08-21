@@ -23,9 +23,9 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     # twitter:         
-    mastodon:   https://infosec.exchange/@BeerMetalPC
+    # mastodon:   https://infosec.exchange/@BeerMetalPC
     # bluesky:        https://bsky.app/profile/beermetalpc.bsky.social
-    # threads:        https://www.threads.net/@beermetalpc
+    threads:        https://www.threads.net/@beermetalpc
     keyoxide:   https://keyoxide.org/aspe:keyoxide.org:LEBPVBCKQSO2R2MG43IRVDMMU4
     github:         BeerMetalPC
     # linkedin:       frankhelm
