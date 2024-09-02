@@ -133,7 +133,7 @@
       "summary": "Organization which collects and recycles computers and other electronics. Devices that are still usable are securely wiped of donor's data, refurbished, and distributed to other non-profits.",
       "highlights": [
         "Worked with Computer Ministry as a volunteer throughout high school and as available during undergrad.",
-        "Excellent way for someone getting into IT to see the full spectrum of consumer and small business devices, fast." 
+        "Was an excellent means for someone getting into IT to see the full spectrum of consumer and small business devices, fast." 
       ]
     }
   ],
@@ -294,10 +294,11 @@
     {
       "name": "Homelab",
       "keywords": [
-        "Unifi",
+        "Ubiquiti Unifi",
         "Proxmox VE",
         "Home Assistant",
-        "Multiple Debian-based LXCs"
+        "Multiple Debian-based LXCs",
+        "Sensors and Automations"
         ]
     },  
     {
@@ -315,15 +316,16 @@
         "Japanese Whisky",
         "Scotch",
         "Sous Vide",
+        "Canning",
         "Late Night Shawarma"
         ]
     },
     {
     "name": "Tabletop Games",
     "keywords": [
+      "Pen and Paper RPGs",
       "Resource Management",
-      "Deck Builders",
-      "Pen and Paper RPGs"
+      "Deck Builders"
       ]
     },
     {
