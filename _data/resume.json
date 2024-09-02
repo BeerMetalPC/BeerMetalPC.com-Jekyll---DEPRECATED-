@@ -27,9 +27,9 @@
         "url": "https://www.credly.com/users/beermetalpc/badges"
       },
       {
-        "network": "Mastodon",
-        "username": "@BeerMetalPC@infosec.exchange",
-        "url": "https://infosec.exchange/@BeerMetalPC"
+        "network": "Threads",
+        "username": "BeerMetalPC",
+        "url": "https://www.threads.net/@beermetalpc"
       }
     ]
   },
@@ -42,8 +42,9 @@
       "endDate": "",
       "summary": "BISO supporting BMO's Technology & Operations group.",
       "highlights": [
-        "Supported many Cyber-led initiatives, with emphasis on identifying business impacts unforeseen by leading area and providing actionable feedback.",
-        "Provided metrics and reporting to multiple lines of business, including phishing test results and pending access certifications."     
+        "Supporting many Cyber-led initiatives, with emphasis on identifying business impacts unforeseen by leading area and providing actionable feedback.",
+        "Cyber SPOC for all Operations areas within BMO. Reviews and opines on exception requests (e.g. DLP, USB access, blocked email release, etc.), assits with a wide variety of stuck/no-known-process issues, and routes requests to appropriate resources when beyond BISO capability.",
+        "Provides metrics and reporting to multiple lines of business, including phishing test results and pending access certifications."
        ]
     },
     {
@@ -54,8 +55,9 @@
       "endDate": "2021-11-01",
       "summary": "Cyber M&A Lead and 'Technical ISO.'",
       "highlights": [
-        "Cyber M&A delivery lead for acquisition of Clearpool Group Inc. and multiple due diligence efforts.",
-        "Led the bank's first STRIDE threat modeling engagement in support of a major cloud migration project."
+        "Cyber M&A delivery lead for acquisition of Clearpool Group Inc. as well as multiple divestiture and pre-deal due diligence efforts.",
+        "Fulfilled 'TISO' responsibilities including project consulting, Vuln/SAST/DAST scan reviews, production data transfer requests, etc. while team transitioned to new threat modeling program.", 
+        "Performed threat modeling application risk assessments as part of project requirements to a high quality standard under short timeframes. Notably led the bank's first STRIDE threat modeling engagement in support of a major cloud migration project."
       ]
     },
     {
@@ -64,11 +66,11 @@
       "website": "https://www.bmo.com/",
       "startDate": "2017-04-20",
       "endDate": "2020-01-01",
-      "summary": "Delegate Cyber M&A Lead and Governance Analyst.",
+      "summary": "Cyber M&A Delegate and Senior GRC Analyst.",
       "highlights": [
         "Cyber M&A delivery delegate for acquisition of KGS-Alpha Capital Markets.",
-        "Supported application governance controls testing via process enhancements, UAT, end-user education and support, and RSA Archer data imports.",
-        "Continued to perform prior role GLBA audits and misc. GRC taskings in addition to this new remit.",
+        "Supported technology-managed application controls testing via process enhancements, UAT, end-user education and support, and RSA Archer data imports.",
+        "Continued to perform prior role GLBA/OSFI assessments and other misc. GRC taskings in addition to this new remit.",
         "Recipient of 'Being BMO' award for fiscal year 2019."
       ]
     },
@@ -81,7 +83,7 @@
       "highlights": [
         "Provided recommendations for 'PAD' process to avoid regulatory issues that went forward to full implementation.",
         "Delegate to Technology Risk Officers, reviewing tech risk in all projects >$1MM in spend in P&BB, Wealth, and Capital Markets.",
-        "Fulfilled multiple compliance functions, including FFIEC controls assessment of web-facing applications, and GLBA audit of high risk LOBs."
+        "Fulfilled multiple compliance functions, including FFIEC controls assessment of web-facing applications, and combination GLBA/OSFI-driven controls assessments of high risk LOBs."
       ]
     },
     {
@@ -104,7 +106,8 @@
       "summary": "Retail PC sales, customer support, and repair.",
       "highlights": [
         "Honed problem-solving and customer-facing communication skills.",
-        "Role fulfilled summer internship requirement at Harrisburg University."
+        "Operated independently, fulfilling back office repair and front office sales responsibilities. Often solo at a sateillite location.",
+        "This role satisfied an internship requirement at Harrisburg University of Science and Technology."
       ]
     }
   ],
@@ -229,7 +232,8 @@
       "keywords": [
         "Due Diligence",
         "Integration",
-        "Divestiture"
+        "Divestiture",
+        "Program Enhancements"
       ]
     },
     {
@@ -287,6 +291,15 @@
         "Borussia Dortmund ⚽️🇩🇪"
         ]
     },
+    {
+      "name": "Homelab",
+      "keywords": [
+        "Unifi",
+        "Proxmox VE",
+        "Home Assistant",
+        "Multiple Debian-based LXCs"
+        ]
+    },  
     {
       "name": "Running",
       "keywords": [
