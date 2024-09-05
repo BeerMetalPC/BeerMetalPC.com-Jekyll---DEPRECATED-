@@ -65,7 +65,7 @@ Having said that, as a matter of principle I do not use CloudFlare as my domain 
 
 You can disable GoatCounter by blocking **gc.zgo.at** in your adblocker or firewall.  
 
-You can view this site's GoatCounter dashboard [here.](https://beermetalpc.goatcounter.com/) What you see on this dashboard is the same thing I see. 
+You can view this site's GoatCounter dashboard [here.](https://fjm1axg.goatcounter.com/) What you see on this dashboard is the same thing I see. 
 
 ### Embeds 
 
