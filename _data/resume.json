@@ -2,7 +2,7 @@
   "basics": 
   {
     "name": "Frank Helm",
-    "label": "Buisiness Information Security Officer | CISA, CRISC, CCSP",
+    "label": "Business Information Security Officer | CISA, CRISC, CCSP",
     "picture": "/assets/img/logo.png",
     "email": "CV@BeerMetalPC.com",
     "phone": "",
@@ -35,7 +35,7 @@
   },
   "work": [
     {
-      "company": "BMO Finanical Group",
+      "company": "BMO Financial Group",
       "position": "Business Information Security Officer",
       "website": "https://www.bmo.com/",
       "startDate": "2021-11-01",
@@ -48,7 +48,7 @@
        ]
     },
     {
-      "company": "BMO Finanical Group",
+      "company": "BMO Financial Group",
       "position": "Information Security Specialist",
       "website": "https://www.bmo.com/",
       "startDate": "2020-01-01",
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "company": "BMO Finanical Group",
+      "company": "BMO Financial Group",
       "position": "Senior Security Analyst",
       "website": "https://www.bmo.com/",
       "startDate": "2017-04-20",
