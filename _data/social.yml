@@ -199,10 +199,25 @@ paypal:
   name: PayPal
   icon: icon-paypal
   prepend: "https://www.paypal.me/"
-keybase:
-  name: Keybase
-  icon: icon-key
-  prepend: "https://keybase.io/"
 download:
   name: Download
   icon: icon-box-add
+mastodon:
+  name: Mastodon
+  icon: icon-mastodon
+  prepend: "https://infosec.exchange/"
+keyoxide:
+  name: keyoxide
+  icon: icon-checkmark
+threads:
+  name: Threads
+  icon: icon-threads
+  prepend: "https://www.threads.net/"
+bluesky:
+  name: Bluesky
+  icon: icon-bubble
+  prepend: "https://bsky.app/profile/"
+credly:
+  name: Credly
+  icon: icon-credly
+  prepend: "https://www.credly.com/users/"
