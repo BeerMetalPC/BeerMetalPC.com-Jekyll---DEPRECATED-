@@ -11,4 +11,4 @@ Sometimes I post things longer than 240 characters, which I'm told counts as a b
  Such things are here and are likely to include cybersecurity, risk, games, or just anything else I get the itch to post. 
  If you want to know more about the guy behind the keyboard, check out [About](/about/).  
 
-If you have questions, comments, or just need to get a hold of me, [Threads](https://www.threads.net/@beermetalpc) (public) or [Email (PGP available)](mailto:email@BeerMetalPC.com) are the most reliable options. 
+If you have questions, comments, or just need to get a hold of me, [Bluesky](https://bsky.app/profile/beermetalpc.bsky.social) (public) or [Email (PGP available)](mailto:email@BeerMetalPC.com) are the most reliable options. 
