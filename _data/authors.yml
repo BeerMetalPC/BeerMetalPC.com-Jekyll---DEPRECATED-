@@ -24,9 +24,9 @@ author1:
   social:
     # twitter:         
     # mastodon:   https://infosec.exchange/@BeerMetalPC
-    bluesky:        https://bsky.app/profile/beermetalpc.bsky.social
-    # threads:        https://www.threads.net/@beermetalpc
-    keyoxide:       https://keyoxide.org/aspe:keyoxide.org:LEBPVBCKQSO2R2MG43IRVDMMU4
+    # bluesky:        https://bsky.app/profile/beermetalpc.bsky.social
+    threads:        https://www.threads.net/@beermetalpc
+    keyoxide:   https://keyoxide.org/aspe:keyoxide.org:LEBPVBCKQSO2R2MG43IRVDMMU4
     github:         BeerMetalPC
     # linkedin:       frankhelm
     # untappd:        https://untappd.com/user/BeerMetalPC
